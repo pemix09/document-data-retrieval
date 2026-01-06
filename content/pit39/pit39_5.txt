@@ -1,0 +1,65 @@
+PO LTAX POLA JASNE WYPEŁNIA PODATNIK, POLA CIEMNE WYPEŁNIA URZĄD. WYPEŁNIĆ DUŻYMI, DRUKOWANYMI LITERAMI, CZARNYM LUB NIEBIESKIM KOLOREM.
+Składanie w wersji elektronicznej: www.podatki.gov.pl
+
+1. Identyfikator podatkowy NIP / numer PESEL (niepotrzebne skreślić) podatnika 2. Nr dokumentu po
+
+Prawidłowe wypełnienie formularza ułatwi wcześniejsze zapoznanie się z broszurą informacyjną dostępną w urzędach.
+
+PIT-39
+ZEZNANIE O WYSOKOŚCI
+OSIĄGNIĘTEGO DOCHODU (PONIESIONEJ STRATY)
+
+4. Rok
+
+Formularz jest przeznaczony dla podatników, którzy w roku podatkowym uzyskali przychody z odpłatnego zbycia nieruchomości i praw
+majątkowych opodatkowanych na zasadach określonych w art. 30e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych
+(Dz. U. z 2021 r. poz. 1128, z późn. zm.), zwanej dalej „ustawą”.
+
+Podstawa prawna: Art. 45 ust. 1a pkt 3 ustawy.
+Termin składania: Od 15 lutego do 30 kwietnia roku następującego po roku podatkowym, z zastrzeżeniem art. 45 ust. 7 ustawy.
+
+Miejsce składania: Urząd, o którym mowa w art. 45 ustawy, zwany dalej „urzędem”.
+
+A. MIEJSCE I CEL SKŁADANIA ZEZNANIA
+
+5. Urząd, do którego jest adresowane zeznanie
+
+6. Cel złożenia formularza (zaznaczyć właściwy kwadrat): 7. Rodzaj korekty (zaznaczyć właściwy kwadrat):
+L) 1. korekta zeznania, o której mowa w art. 81 Ordynacji podatkowej”: 2)
+
+0 1. złożenie zeznania L) 2. korekta zeznania
+L) 2. korekta zeznania, o której mowa w art. 81b § 1a Ordynacji podatkowej”)
+
+B. DANE IDENTYFIKACYJNE I AKTUALNY ADRES ZAMIESZKANIA
+
+a GA
+pp |
+
+C. DOCHÓD / STRATA
+
+Źródło przychodów Przychód Koszty uzyskania Suma odpisów Dochód Strata
+przychodów amortyzacyjnych (b - c) + d c-b
+zł, gr
+
+Po
+Odpłatne zbycie
+nieruchomości i praw
+majątkowych, o których
+mowa w art. 10 ust. 1 pkt 8
+lit. a-c ustawy
+D. OBLICZENIE ZOBOWIĄZANIA PODATKOWEGO
+Dochód zwolniony na podstawie art. 21 ust. 1 pkt 131 ustawy 25.
+zł, gr
+Podstawa obliczenia podatku (po zaokrągleniu do pełnych złotych) 26.
+Od kwoty z poz. 23 należy odjąć kwotę z poz. 25. zł
+Podatek od dochodów, o których mowa w art. 30e ustawy 27.
+zł, gr
+9.
+
+Podatek zapłacony za granicą, o którym mowa w art. 30e ust. 8 i 9 ustawy (przeliczony na złote)
+
+zł, gr
+Podatek należny (po zaokrągleniu do pełnych złotych) 2
+Od kwoty z poz. 27 należy odjąć kwotę z poz. 28. Jeżeli wynik jest liczbą ujemną, należy wpisać 0. zł
+
+PIT-39...

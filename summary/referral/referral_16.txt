@@ -1,0 +1,1 @@
+Medical examination referral for an employee or job applicant. The document outlines the reasons for the medical examination, including potential health risks and hazardous substances present at the workplace. It also includes information about the employee's or job applicant's personal data, such as PESEL number, date of birth, and address.

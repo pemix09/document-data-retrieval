@@ -1,0 +1,17 @@
+Imię i Nazwisko:
+
+Name:
+
+Data urodzenia: Płeć:
+
+Date of birth: Gender:
+Data Nazwa szczepionki /| Nazwa szczepionki/ | Dawka / Podpis / Uwagi
+szczepienia | Rodzaj szczepienia | numer i seria Sposób podania Signature / Notes
+Date Tradenome | Manufacturer | Dose / Administration
+
+Nature of vaccine Batch no. of vaccine
+
+t
+A
+3.
+

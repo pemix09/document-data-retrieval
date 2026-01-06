@@ -1,0 +1,1 @@
+Wniosek o wpis prawa na księdze wieczystej. Wnioskodawca jest uprawnionym użytkownikiem wieczystego. Wpisuje się rodzaj przysługującego prawa, imię i nazwisko, numer PESEL lub nazwę firmy i siedzibę.

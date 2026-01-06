@@ -1,0 +1,6 @@
+/scan-candidates/
+/scans/
+/document_type_clasifier/document_type_classifier.tflite
+/summarizer/models/
+/summarizer/scans_to_verify_summary/
+/summarizer/tmp_results/

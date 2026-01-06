@@ -1,0 +1,1 @@
+This document is a technical inspection report for a vehicle. The report includes changes made to the vehicle and new technical data. The changes are compliant with Polish regulations or do not meet the requirements due to [reason].

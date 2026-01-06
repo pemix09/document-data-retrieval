@@ -1,0 +1,23 @@
+Rach, bankowy:
+
+Numer wyciągu: 442010
+
+Rachunek podstawowy (00 10101010 1111 Waluta rachunku. PLN
+
+zaokiesod 30082010 [EA] do 17122010 [EQ
+
+| Podstawowe
+
+zdria 3003200 EJ
+Saldo początkowe: 95 860,90 PLN EJ
+Dodaj JTU| Data _ Uznanie Obciążen Walut Nazwa I Tytułem
+Popraw bele 2010110 | 0,00 24tys. | PL | Hurtownia OLEK _10/M10/2010
+Usuń = © 2010121 | 1tys 0,00 PL_ Hurtownia TABIS _ Wpłata do FS 54/20
+m je 6 2010-124 000 1tys. PL Solarium SUN | 44/MWRoc/2610
+[36 20616121 560,00 _ 0,00 “PL” PiekamiaMIKÓŁ | Wpłata do FS 45/36
+je 6 20616121 __ 000 8606,00 PL  ADKOBRA__ Wyplata za 13/MGŻ
+je 6 "2010-124 000 76006 PL” Salon BEAUTY |
+Saldo końcowe: 120 768.31 PLN]. Wylicz saldo końcowe
+
+Gate
+

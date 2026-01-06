@@ -1,0 +1,32 @@
+EF Jak wykonać skan iPhonem?
+
+Instrukcja krok po kroku
+
+Otwórz aplikację Notatki
+
+Uruchom aplikację Notatki na swoim iPhonie i wybierz opcję
+utworzenia nowej notatki.
+
+Dodaj skan dokumentu
+
+Kliknij ikonę aparatu w dolnej części ekranu i wybierz opcję
+„Skanuj dokumenty”, aby rozpocząć skanowanie.
+
+Ustaw dokument i zrób zdjęcie
+
+Ułóż dokument na płaskiej powierzchni, upewnij się,
+że jest dobrze oświetlony, i skieruj kamerę iPhone'a na dokument,
+aby automatycznie wykryć jego krawędzie.
+
+Dostosuj skan
+
+Po zrobieniu zdjęcia możesz dostosować krawędzie skanu, przyciąć
+obraz lub poprawić jego jakość, korzystając z dostępnych narzędzi.
+
+Zapisz i udostępnij skan
+
+Po zakończeniu edycji zapisz skan w notatce, a następnie udostępnij
+go lub zapisz w formacie PDF, bezpośrednio z aplikacji Notatki.
+
+OLONONONG,
+

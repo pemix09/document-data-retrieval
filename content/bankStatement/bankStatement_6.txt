@@ -1,0 +1,21 @@
+Modyfikowanie rachunku bankowego
+Podstawowe informacje Zaawansowane
+
+Numer rachunku
+aaa
+
+Nazwa rachunku
+konto firmowe - euro
+
+Nazwa banku
+konto firmowe - euro
+
+Dw. iso00 |?
+
+Seria numeracji WB
+
+domyślna s
+
+Miesiąc rozpoczęcia pracy z systemem
+Styczeń 2023
+

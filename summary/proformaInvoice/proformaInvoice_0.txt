@@ -1,0 +1,1 @@
+This proforma invoice is issued by Usługi Informatyczne Jan Nowak to ABC INFO Andrzej Kowalski on December 12, 2024. The invoice details a single item of service with a value of 100000 PLN and a VAT rate of 23%. The total amount due is 123000 PLN. Payment terms are 14 days from the date of invoice.

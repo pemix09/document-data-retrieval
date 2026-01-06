@@ -1,0 +1,29 @@
+DANE ODCZYTOWE
+
+Grupa Nr Strefa Data odczytu
+taryfowa licznika pomiarowa od | do od
+Energia czynna
+G11K L 22.09.2021 26.11.2021 5206 |
+
+1. ROZLICZENIE SPRZEDAŻY ENERGII ELEKTRYCZNEJ
+
+Data odczytu
+Rodzaj opłaty ea | oye da:
+23.09.2021 26.11.2021
+Energia czynna całodobowa 23.09.2021 26.11.2021
+2. ROZLICZENIE DYSTRYBUCJI ENERGII ELEKTRYCZNEJ
+A Data odczytu
+Rodzaj opłaty od do |
+
+Opłata abonamentowa 23.09.2021 26.11.2021
+Opłata sieciowa stała 23.09.2021 26.11.2021 i
+Opłata sieciowa zmienna całodobowa 23.09.2021 26.11.2021 388
+Opłata jakościowa 23.09.2021 26.11.2021 388
+Opłata DZE 23.05.2021 26.11.2021
+Opłata kogeneracyjna 23092021 26.11.2071
+
+23.09.2021 26.11.2021 200
+
+3.09.2021 26.11.2021
+
+'wÓJ PRZEWODNIK PO

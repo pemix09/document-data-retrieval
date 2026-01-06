@@ -1,0 +1,1 @@
+This document represents a patient record from the psychiatric ward of a hospital. The patient's name is not specified, but their age is mentioned as 63 years old.

@@ -1,0 +1,1 @@
+Odpis zupełny aktu urodzenia. Dane dziecka: imię, nazwisko, data i miejsce urodzenia. Ojciec: [imię], matka: [imię].

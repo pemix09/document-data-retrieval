@@ -1,0 +1,1 @@
+Ss jest przedmiotem transakcji. Transakcja ta dotyczy kwoty [X] zł. Ss z kim? Ss z firmą 'Y'. Przedmiot: [opis przedmiotu]. Kwota: [X] zł.

@@ -1,0 +1,1 @@
+Faktura imienna dla Jan Kowalskiego z Firma ABC. Sprzedawca: gilu rafsoftnet. Razem: 230,002 zł. Wartość out: 4230,0 zł.

@@ -1,0 +1,29 @@
+@recepta
+
+105033944361 LT
+
+Prefiks ID 2.16.840.1.113883.3.4424.2.7.15032.2.1
+
+Kod dostępu 6770 Wystawiono 10.04.2020
+Pacjent Aleksander Biesiada
+Wystawca lek. Aleksander Biesiada
+
+PWZ lekarza 2840016
+tel: 1256-01-24 (rejestracja)
+
+Recepta 1 z 1 00000000000mm307425305
+Spasmolina kaps. twarde (60 mg) | 100%
+2 op. po 20 szt.
+
+DS.2x1
+
+Odpłatność 100%
+
+Wejdź na pacjent.gow.pl skorzystaj z Internetowego Konta Pacjenta (KP).
+
+Oświadczam, że nie realizowałem/am wcześniej recept o
+pozycjach:
+
+Jestem świadomy odpowiedzialności karnej za złożenie
+fałszywego oświadczenia.
+

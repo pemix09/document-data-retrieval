@@ -1,0 +1,1 @@
+Wniosek o ustalenie numeru porządkowego. Informacja o położeniu budynku, wnioskodawca i jego dane kontaktowe.

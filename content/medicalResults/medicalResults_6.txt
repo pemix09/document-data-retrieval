@@ -1,0 +1,28 @@
+BADANIA PŁATNE
+Pacjent Data rej: KWKKNENNNNNA
+||
+
+„Adres Data ur
+
+PESEL:
+
+Prec:
+Badanie Wynik. Jedn. FLAGA
+Morfologia krwi (ICD-9: C55)
+Leukocyty 9.94 tys/ul N
+Erytrocyty 4,67 min/al N
+Hemoglobina 15,0 gidl N
+Hematokryt 42,7 % N
+MCV 914 al N
+MCH 32,1 pg N
+MCHC 35,1 gal N
+Płytki krwi 239 tys/ul N
+RDW-SD 444 a N
+RDW-CV 13,7 % N
+PDW 13,0 a N
+MPV 10,90 a N
+P-LCR 316 N
+PCT 0,26 N
+Neutrofile 8,05 tys/ul H
+Pie tys/ul N
+

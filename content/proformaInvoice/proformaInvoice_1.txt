@@ -1,0 +1,39 @@
+Proforma nr: woo: a
+
+Data wystawienia: 2018-04-09
+
+Sprzedawca Nabywca
+
+POMOC AFAKTURY.PL AVANO SPÓŁKA Z OGRANICZONĄ
+Kościuszki 45/15 ODPOWIEDZIALNOŚCIĄ
+
+01-012 Opole ul. Cienista 16/4
+
+NIP: 112-112-12-12 02-489 Warszawa
+
+tel: 123-123-123 NIP: 7010277497
+
+e-mail pomoc2@example.com e-mail avanoGexampie.pl
+
+bank nazwa banku
+Nrkanta: 11 2222 3333 4444 5555 6666 7777
+
+Nazwa towaru usługi Ilość | im  Cenanetto Rabat % Cenanetto VAT  Kwotanetto  KwotaVAT Kwota brutto
+po rabacie
+usługat 100 st 10000 1000 90.00 28%. 9000. 2070 © 11070
+usługaż 100 szt 20000 1000 18000 28% 18000 4140 22140
+facmie: __200
+23% 27000 6240 38240
+Razem 27000 6240 33240
+
+Sposób zapłaty: przelew
+Termin zapłaty: 14 dni
+2018-01-23
+
+Razem do zapłaty: 332.10 PLN
+
+Kwota słownie: trzysta trzydzieści dwa PLN 10/100
+
+Osoba upoważniona do odbioru Ożoba upoważniona do wystawienia
+
+"TA Z WA A CHATA TTR R PRESTIE m

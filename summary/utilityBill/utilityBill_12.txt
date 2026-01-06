@@ -1,0 +1,1 @@
+Rozliczenie sprzedaży energii elektrycznej. Rozliczenie dystrybucji energii elektrycznej. Opłata abonamentowa, opłata sieciowa stała, opłata sieciowa zmienna całodobowa, opłata jakościowa, opłata DZE, opłata kogeneracyjna.

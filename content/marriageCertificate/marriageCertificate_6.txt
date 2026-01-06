@@ -1,0 +1,61 @@
+Rzeczpospolita Polska | uscjożia Z
+
+AA 0000000
+
+Województwo
+Urząd Stanu Cywilnego
+
+Oznaczenie aktu:
+
+Data sporządzenia: Miejsce sporządzenia:
+
+Odpis zupełny aktu zgonu
+
+1. Dane osoby zmarłej
+Imię pierwsze
+
+Imię drugie
+
+Imiona kolejne
+
+Nazwisko
+Nazwisko rodowe
+
+Stan cywilny
+Data urodzenia
+
+Miejsce urodzenia
+
+2. Czas i miejsce zgonu / znalezienia zwłok
+
+Data zgonu
+
+Godzina zgonu
+
+Miejsce zgonu
+
+Data znalezienia zwłok
+Godzina znalezienia zwłok
+Miejsce znalezienia zwłok
+
+3. Dane małżonka osoby zmarłej
+
+Imię (imiona)
+Nazwisko
+Nazwisko rodowe
+
+4. Dane rodziców osoby zmarłej
+
+Ojciec Matka
+Imię (imiona)
+Nazwisko
+Nazwisko rodowe
+
+5. Dane podmiotu, który zgłosił zgon
+
+Imię
+Nazwisko
+Nazwa podmiotu
+
+Odpis zupełny aktu zgonu strona G3 >
+

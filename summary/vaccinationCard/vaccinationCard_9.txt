@@ -1,0 +1,1 @@
+This vaccination card belongs to [Name], with PESEL number [PESEL]. It contains information about mandatory vaccinations, including the type of vaccine, dose number, date and time of administration, and location. The card also includes a signature from the person administering the vaccination.

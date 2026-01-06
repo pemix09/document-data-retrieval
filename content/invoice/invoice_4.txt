@@ -1,0 +1,55 @@
+M
+
+SPRZEDAWCA
+
+Online Fakturowanie
+Baker street
+1111111, Warszawa
+Polska
+
+REGON 9876532111
+Płatnik VAT
+
+Informacje o płatności
+
+Ilość Opis towaru lub usługi
+1 szt Produkt
+1 dzień Serwice
+
+Pieczątka i podpis
+
+ób zapłaty
+
+NAZWA FIRMY
+ADRES
+DANE KONTAKTOWE
+NIP REGON
+
+FAKTURA - VAT nr 3
+Metoda rozliczania VAT: Metoda kasowa
+
+NABYWCA
+
+Fun Lab
+
+Cross street
+11111111, Warszawa
+Polska
+
+REGON 11 NIP 1122334455
+
+Gotówką Data wystawienia 16. 08. 2023
+Termin płatności 30. 08. 2023
+Data dostawy 16. 08. 2023
+Cena netto Stawka Wartość netto VAT Razem
+podatku
+11,00 23% 11,00 2,53 13,53
+14,00 8% 14,00 112 15,12
+Stawka VAT Netto VAT Brutto
+23% 11,00 2,53 13,53
+8% 14,00 112 15,12
+Razem 25,00 3,65 28,65
+
+Łącznie do zapłaty
+
+Strona 1z 1

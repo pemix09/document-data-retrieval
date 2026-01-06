@@ -1,0 +1,1 @@
+This is a bank statement for Podstawowe Imre, dated May 1st, 2018. The initial balance was 0 PLN and the final balance is also 0 PLN. There are no transactions listed.

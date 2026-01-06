@@ -1,0 +1,1 @@
+Obligatory tax calculation for a company agreement or change of company agreement. The tax base is calculated according to Article 6, Section 9 of the Tax Act. The tax amount is determined by subtracting the amount from position 1 from the amount from position 50. If the result is negative, it should be written as O.

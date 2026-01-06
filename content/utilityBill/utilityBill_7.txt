@@ -1,0 +1,71 @@
+Grupa taryfowa OSD (dystrybucja): G11
+
+Zabezp.(A): 25 Moc umowna (kW): 6,00 Ilość faz: 3
+Data sprzedaży: 02.2014
+Rozliczenie z tytułu dostarczenia energii elektrycznej
+(PKWIU 35.11.10.0) Okres rozliczeniowy: 20.08.2013 - 12.02.2014
+wakazanie
+Wskazania obecne. Mnożna/ Cena netto
+
+wean) scone 2 wk "I
+Sprzedaż energii
+Energia oiektryczna czynna:
+khem 03481022 20.08.2013 25452() 31.12.2013 266188) | 1 1161 027150 |31521
+cia czyja 31.12.2013 26618 12.02.2014 26988) | 1 375 02540 | 9551
+Dystrybucja energii
+Oplata dyst. zm. całodobowa G3481022 20082013 25452() S1122013 Z6GTS) 1 1161 021620 [25101
+Opłata dyst. zm. całodobowa 31122013 28613 12.022014 269885) | 375 021030 | 7886
+Opłata dystrybucyjna stała 01.09.2013 31.12.2013 4 1440
+Opłata dystrybucyjna stała 01.01.2014 28.02.2014 2
+Opłata przejściowa 01.09.2013 31.12.2013 4 413000
+Opłata przejściowa 01.01.2014 28.02.2014 2
+Opłata abonamentowa 01.08.2013. 28.02.2014 5
+
+Podsumowanie zużycia Nettojzi] VAT] Bruttojzij
+
+w tym sprzedaż energii 41072 8447 506,18
+
+w tym dystrybucja energi 1 13 449.94 OPP
+Fszem Tres 1
+
+Objaśnienie:
+(8) - odczyt szacowany
+
+(O) - odczyt dokonany i zgłoszony przez odbiorcę
+(0) - odczyt fizyczny lub zdalny dokonany przez upoważnionego przedstawiciela przedsiębiorstwa energetycznego
+Ze względu na brak dostępu do licznika, rozliczenie zostało dokonane w oparciu o szacowany odczyt licznika. W.
+przypadku konieczności korekty przeprowadzonego rozliczenia prosimy o kontakt z Telefoniczną Obsługą klientów
+pod in tel. 32 606 0 606
+
+podatku VAT. SE kWh. Netofa] ATI [Brutoter]
+
+Należność za energie ub dosiawę energi 23% 1586 77658 17860 | 955,13,
+
+Należność z prognoz wystawionych na okres: 08.2013 - 01.2014. 28% 1476 Talo _171s2|_si94i
+[Bazem faktura VAT ‘so 29,046.68 |
+
+Wym 23% 2004 6.68 3872
+
+id: [szą
+
+Słownie: trzydzieści pięć złotych siedemdziesiąt dwa grosze
+Prosimy regulować płatności zgodnie z zełączoną informacją dla klienta.
+
+Kwota podatku akcyzowego, zawarta w wartosci energii wykazanej w tej fakturze wynosi 1,20 zł. P
+
+Operatorem Systemu Dystrybucyjnego jest TAURON Dystrybucja S.A.
+
+Dane dotyczące struktury paliw zużywanych do wytworzenia energii elektrycznej oraz ich wpływu na środowisko, treść
+aktualnych tary! oraz dodatkowe informacje znajdują się na stronie www.tauron-pe.pl
+
+Osoba uprawniona do wystawienia faktury VAT:
+Kierownik Wydziału Rozliczeń - M.D.
+
+Obstuga Klientów:
+Telefoniczna Obsługa Klientów czynna w dni robocze od 7.00 do 18.00, tel. 32 606 0 606
+e-mail: kontakt krakow @tauron-pe.pl
+
+ww tauron-pe-pl
+
+Podawanie OdCZytów:
+

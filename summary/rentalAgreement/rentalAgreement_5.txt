@@ -1,0 +1,1 @@
+Umowa najmu lokalu mieszkalnego. Wynajmujący jest wyłącznym właścicielem lokalu, a lokal jest przedmiotem współwłasności. Liczba właścicieli wynajmowanego lokalu to [X]. Najemcy są [Y] i [Z], którzy podpisują umowę. Umowa dotyczy oddania lokalu do użytkowania.

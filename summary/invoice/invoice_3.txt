@@ -1,0 +1,1 @@
+Invoice for transport services from Jan Kowalski to Jan Pawlak. The invoice includes one item: Transport towarów szt. 1 with a quantity of 3,000.00 PLN, net price of 3,000.00 PLN, and VAT of 23%. The total value is 3,690.00 PLN. Payment was made in full on 15-04-2024.

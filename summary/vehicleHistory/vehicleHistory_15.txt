@@ -1,0 +1,1 @@
+Historia pojazdu. Kto: [owner's name], z kim: [seller's name], przedmiot: vehicle, kwota: [price].

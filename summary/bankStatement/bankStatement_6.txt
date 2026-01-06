@@ -1,0 +1,1 @@
+This bank statement shows the modifications made to the account. The account number is aaa, and it's a corporate euro account at konto firmowe - euro. The series of numbering WB is set to default (domyślna s). The system was started on January 2023.

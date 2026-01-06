@@ -1,0 +1,1 @@
+Application for temporary vehicle registration, including details of the vehicle, its owner, and the purpose of the application. The applicant requests the issuance of individual license plates or reduced-size license plates.

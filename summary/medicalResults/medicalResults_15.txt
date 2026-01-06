@@ -1,0 +1,1 @@
+This document contains medical test results from a patient to a laboratory. The tests were conducted to analyze pre-analytical changes and the quality of surgical outcomes. The results are intended for use by the laboratory.

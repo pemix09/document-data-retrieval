@@ -1,0 +1,47 @@
+Grupa taryfowa Sprzedawcy: G11
+Grupa taryfowa OSD (dystrybucja): G11
+Zabezp.(A): 25 Moc umowna (kW): 5,00 Ilość faz: 1
+Rozliczenie sprzedaży za okres 06.12.2022 - 07.06.2023
+Wskazanie poprzednie _ Wskazanie obecne = Mnozna/ Zużycie
+
+Jazwa towaru lub usługi Nr licznika Data Odczyt Data Od: ena [kWh/kW] [zł]
+
+Sprzedaż energii
+Energia elektryczna czynna
+
+Enerua ee 06.12.2022 31.12.2022 1 200 0,40970 81,94
+Energa elektryczna czynna 31.12.2022 07.06.2023 1 1257 041470 521,28
+całodobowa
+
+Dystrybucja energii
+
+Opłata dystr. zm. całodobowa 06.12.2022  15574(1) 31.12.2022 15774(S) A: 200 0,19190 38,38
+Opłata dystr. zm. całodobowa 31.12.2022 15774 _ 07.06.2023 170310) 1 1257 019190 241,22
+Opłata OZE całodobowa 06.12.2022 15574() 31.12.2022 15774(5) 1,00 200 000090 0.18
+Opłata OZE całodobowa 31.12.2022 15774 _ 07.06.2023 1703) 100 1257 0,00000 0,00
+Opłata kogeneracyjna całodobowa 06.12.2022 15574() 31.12.2022 15774(5) 1,00 200 0,00408 081
+Opłata kogeneracyjna całodobowa 31.12.2022 15774 07.06.2023 17031(I) 1,00 1257 0,00496 6,23
+Opłata dystrybucyjna stała 01.01.2023 30.06.2023 6 3,8200 22,92
+Opłata przejściowa 01.01.2023 30.06.2023 6 0,33000 1,98
+Opłata mocowa 01.01.2023 30.06.2023 6 9,54000 57,24
+Opłata abonamentowa 01.01.2023 30.06.2023 6 0,76000 4,56
+[Razem 1457 976,74
+[Podsumowanie zużycia Netto[zł] VATIzł] _ Bruttofzł]
+w tym sprzedaż energii 603,22 123,99 727,21
+w tym dystrybucja energi 373,52 78.83 452,35
+Objaśnienie:
+
+(S) - odczyt szacowany
+(O) - odczyt dokonany i zgłoszony przez odbiorcę
+
+(I) - odczyt fizyczny lub zdalny dokonany przez upoważnionego przedstawiciela przedsiębiorstwa energetycznego
+[Rozliczenie pod odatku VAT Stawka VAT kwh  Nettolzi] —_ VATIzf] _ Bruttofzi]
+
+Należność za energię i/lub dostawę energii 5% 200 121,31 6,07 127,38
+Należność za energię i/lub dostawę energii 23% 1257 855,43 196,75 1 052,18
+Należność z prognoz wystawionych na okres: - 05.2023 5% 1295 857,30 42,85 900,15
+[Razem faktura VAT 162 119,44 159,97 279,41]
+
+W tym 5% -735,99 -36,78 772,77
+
+23% 855,43 196,75 1052,18

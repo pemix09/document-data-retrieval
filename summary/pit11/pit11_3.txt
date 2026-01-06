@@ -1,0 +1,1 @@
+Poltax polajasne wypełnia podatnika, pola ciemne wypełnia Urząd. Dochody i straty z źródła przychodów. Dochody i straty podatnika: koszty uzyskania, dochód, strata, zaliczka pobrana. Ralężności ze stosunku pracy.

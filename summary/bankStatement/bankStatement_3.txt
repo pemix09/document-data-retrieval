@@ -1,0 +1,1 @@
+This bank statement shows the payment details for the period from April 1, 2015 to April 30, 2015. The account holder's name is [Yourname Yoursurname]. The main transactions include a payment of €3663.23 on May 24, 2015. The minimum payment term is May 24, 2015 and the total fees are €3663.23.

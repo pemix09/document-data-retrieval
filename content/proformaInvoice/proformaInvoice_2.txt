@@ -1,0 +1,29 @@
+[Nazwa firmy] AA INV24.C0M
+
+PROSTY PROGRAM 00 FAKTUR
+
+[Adres] Forma płatności: przelew
+
+NIP: [NIP] [Nazwa banku]
+SWIFT / BIC: [SWIFT / BIC]
+Numer konta bankowego: [Numer konta
+bankowego]
+
+FAKTURA PROFORMA # 714
+
+NABYWCA
+
+DATA WYSTAWIENIA: 11-10-2021
+[NAZWA FIRMY KLIENTA] TERMIN PŁATNOŚCI: 25-10-2021
+[ADRES FIRMY KLIENTA] DATA SPRZEDAŻY: 11-10-2021
+
+NIP: [NIP KLIENTA]
+
+ss aA : WARTOŚĆ
+NAZWA USŁUGI / TOWARU ILOŚĆ CENA NETTO one
+mój produkt 5 570,00 2850,00 655,50 (23%)
+moja usługa 1 2 720,00 2720,00 625,60 (23%)
+WARTOŚĆ NETTO 5 570,00 zł
+VAT 1 281,10 zł
+
+RAZEM DO ZAPŁATY 6 851,10 zł

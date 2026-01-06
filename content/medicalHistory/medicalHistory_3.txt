@@ -1,0 +1,40 @@
+[Ts Karta pacjenta 1/6 SiDLY
+
+TmięTrazwisko
+
+Dziękujemy za wybranie Teleopieki SiDLY. Prosimy o wypełnienie poniższego formularza
+drukowanymi literami. Poprawne i czytelne wypełnienie formularza jest niezbędne do
+prawidłowego świadczenia usługi. Zebrane informacje pozwolą na udzielenie
+natychmiastowej pomocy lub na wezwanie służb ratunkowych.
+
+1. Dane osobowe
+
+imię
+
+Nazwisko
+
+PESEL
+
+Data urodzenia
+zie miesiąc -rok
+
+Płeć Kobieta Mężczyzna
+Wzrost i waga Wzrost cm Waga kg
+Numertelefonu | +48 +48
+
+Ulica.
+Ki Numer budynku Numer lokalu
+zamieszkania
+
+Kod pocztowy 3
+
+Miejscowość
+
+Wprowadź 15 cyfrowy numer IMEI opaski SIDLY.
+Numer ten znajduje się na spodzie opakowania/pudełka opaski SIDLY
+
+2. IMEI opaski
+
+Numer IMEI
+
+telecentrum@sidly.org

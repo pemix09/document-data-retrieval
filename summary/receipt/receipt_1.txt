@@ -1,0 +1,1 @@
+Receipt for products sold by Firma. Products: Produkt 1 (1XXX.XX XX.XXB), Produkt 2 (ŁXXX.XX XX.XX8). Total PTU: X.XXX X.XX, total PLN: XX.XX. Paid with cash.

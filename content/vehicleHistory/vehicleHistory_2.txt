@@ -1,0 +1,86 @@
+Dokument wygenerowany z zerwisu Gov!
+Data wygenerowania 04.02.2025 08:37
+
+Raport z ustugi Historia pojazdu
+
+To dokument informacyjny. nie urzędowy
+
+Dane zagraniczne
+
+Podstawowe dane Carfax
+
+Pojazd
+Numer VIN, nadwozia, podwozia lub ramy
+Rok produkcji
+Dane techniczne Carfax
+
+ika
+Napęd
+Skrzynia biegów
+Paliwo
+Moc silnika (KM)
+Moc silnika (kW)
+
+Pojemność
+
+Ryzyka według Carfax
+
+Kradzież
+Złomowanie
+Powypadkowy
+Uszkodzony
+
+Rozbieżność licznika
+Niedopuszczony do ruchu
+Służył jako taxi
+
+Ryzyka według autoDNA
+
+Kradzi
+Złomowanie
+
+Uszkodzony
+
+Rozbieżność licznika
+Niedopuszczony do ruchu
+
+Służył jako taxi
+
+Szkoda całkowita
+
+Błąd cyfry kontrolnej w numerze VIN
+Akcje serwisowe
+
+Odczyty
+
+FORD, MONDEO, sedan
+WFOEXXGBBE9K81780
+2009
+
+1595 cm?
+
+na przednie kota
+manualna
+benzyna
+
+125
+
+92
+
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano
+nie odnotowano

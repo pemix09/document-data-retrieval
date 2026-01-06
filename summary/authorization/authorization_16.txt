@@ -1,0 +1,1 @@
+Request for obtaining information about a person. The request concerns personal data, including PESEL number, surname Kowalska/Nowak, first names Róża, father's name Stanisław, mother's name Renata, date of birth September 18, 1483, and other personal details.

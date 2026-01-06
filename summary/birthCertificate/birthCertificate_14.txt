@@ -1,0 +1,1 @@
+Application for a complete copy of birth certificate. The applicant requests a complete copy of their birth certificate, which is necessary for [ specify reason ]. Attached is proof of payment of the fee.

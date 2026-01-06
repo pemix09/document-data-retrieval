@@ -1,0 +1,1 @@
+This vaccination card belongs to [Name], born on [Date of birth], with gender [Gender]. The card contains information about various vaccinations, including the name and dose of each vaccine, as well as the batch number and manufacturer.

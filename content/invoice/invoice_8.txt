@@ -1,0 +1,64 @@
+Faktura
+
+Nr 2014/02/2
+
+SPRZEDAWCA:
+ADRES:
+
+NIP:
+NUMER TELEFONU:
+
+DATA WYSTAWIENIA:
+
+DATA ZAKOŃCZENIA
+DOSTAWY TOWARÓW:
+
+TERMIN PŁATNOŚCI:
+
+Lp. Nazwa
+
+1 Sprzedaz zabawek
+
+Jan Kowalski Dobra Firma
+
+Testowa123 1, 30-668
+Kraków
+
+7327755267
+123456789
+
+2014-02-19
+
+2014-02-19
+2014-03-05
+
+PKWiU
+
+NABYWCA:
+ADRES:
+
+SPOSÓB PŁATNOŚCI:
+BANK:
+NUMER KONTA:
+
+F.H.U Firmax
+Gołębia 12, 30-302 Kraków
+
+Przelew
+mBank
+416355168211121681051793368481
+
+RAZEM DO ZAPŁATY: 1 377,60 PLN
+
+Zapłacono: 0,00 PLN Pozostało do zapłaty: 1 377,60 PLN
+Słownie: jeden tysiąc trzysta siedemdziesiąt siedem PLN 60/100
+
+imię, nazwisko i podpis osoby upoważnionej do odebrania dokumentu
+
+Ilość Jm Cena netto wać Stewie Kwota VAT Ice)
+1 120,00 1 120,00 23% 257,60 1 377,60
+RAZEM: 1120,00 x 257,60 1377,60
+W tym 1120,00 23% 257,60 1377,60
+
+Janek Kowalski
+imię, nazwisko i podpis osoby upoważnionej do wystawienia dokumentu

@@ -1,0 +1,23 @@
+< „A INV24.COM
+
+PROSTY PROGRAM OO FAKTUR
+
+INażwa finny Kliental Data wystawienia: 07-10-2021
+
+[Adres firmy klienta] Termin płatności: 21-10-2021
+NIP: [NIP klienta] Data sprzedaży: 07-10-2021
+
+Faktura nr 356
+
+Nazwa usługi / towaru Ilość Cena netto Wartość netto
+mój produkt 1 1 500,00 1 500,00
+moja usługa 1 3 000,00 3 000,00
+
+Wartość netto: 4 500,00 zł
+VAT(23%): 1 035,00 zł
+Razem do zapłaty: 5 535,00 zł
+
+[Nazwa firmy] [Adres] [Nazwa banku]
+NIP: [NIP] [Numer konta bankowego]
+SWIFT / BIC: [SWIFT / BIC]
+Forma płatności: przelew

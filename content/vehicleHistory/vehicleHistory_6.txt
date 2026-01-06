@@ -1,0 +1,71 @@
+Dokument wygenerowrany z zerwisu Gov!
+Data wygenerowania: 27.04.2025 23:38
+
+Raport z usługi Historia pojazdu
+
+To dokument informacyjny. nie urzędowy
+
+(O) Status rejestracji: zarejestrowany
+
+© Badanie techniczne: aktualne
+
+Q Polisa OC: aktualna
+
+Numer rejestracyjny
+Pojazd
+
+Numer VIN, nadwozia, podwozia lub ramy
+Rok produkcji
+
+Ostatni stan licznika
+
+Dane techniczne
+
+PZL21628
+ALFA ROMEO, 159, samochód osobowy, kombi
+ZAR93900007083789
+
+2006
+
+297320km
+
+Pojemność silnika
+Moc silnika
+Norma euro
+
+Paliwo
+
+ba miejsc ogółem
+Liczba miejsc siedzących
+
+Masa własna pojazdu
+
+Dopuszczalna masa całkowita
+Maks. masa całkowita przyczepy z hamulcem
+Maks. masa całkowita przyczepy bez hamulca
+
+Liczba osi
+Największy dopuszczalny nacisk osi
+
+Dokumenty
+
+2387 cm”
+147kW
+EURO 4*
+
+olej napędowy
+
+1535 kg
+2220kg
+1500 kg
+750 kg
+
+12kN
+
+Typ dokumentu
+Data wydania dokumentu
+Stan dokumentu
+
+dowód rejestracyjny
+15.10.2024
+odebrany

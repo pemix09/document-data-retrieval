@@ -1,0 +1,1 @@
+Skierowanie do pracy diagnostycznej. Termin zgłoszenia się pacjenta: [termin]. Termin wyznaczonej porady: [termin]. Data wystawienia skierowania: [data] przez lekarza.

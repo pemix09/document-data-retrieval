@@ -1,0 +1,1 @@
+The patient's medical history includes a diagnosis of [insert diagnosis], with symptoms that worsen in certain situations and improve in others. The patient has undergone treatment, taken medications, and has co-existing conditions such as [insert conditions]. They have also experienced [insert experiences] and have had [insert procedures].

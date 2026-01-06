@@ -1,0 +1,31 @@
+“At INV24.(7
+
+Datum vystaveni: 20.1.2022 en
+Datum zdan. plnćni: 20.1.2022
+Datum splatnosti: 3.2.2022
+
+Odbératel: Dodavatel:
+[Jmćno spolećnosti klienta] [Nazev spolećnosti]
+[Adresa klientovy spolećnosti] [Adresa]
+IĆ: [IĆ klienta] IĆ: [IĆ]
+DIĆ: [DIĆ klienta] DIC: [DIC]
+
+Telefon: [Telefon]
+
+Proforma faktura # 3
+
+Ne Nazev Mnożstvi Cena Cena celkem
+1 Ukazkova slużba 1 9 000,00 9 000,00
+2 _ ukazkowy produkt 3 3 000,00 9 000,00
+
+Cena celkem: 18 000,00 Kć
+DPH(21%): 3 780,00 Kć
+Celkem k platbć: 21 780,00 Kć
+
+Banka: [Jmóno banky]
+Cislo ućtu: [Bankovni Uéet (IBAN)]
+Variabilni symbol: 3
+SWIFT/BIC: [SWIFT/BIC]
+Razitko a podpis: Zpisob platby: bankovnim prevodem
+
+Do obchodniho rejstriku zapsana u Méstského soudu v Praze dne 15. ćervna 2015, oddil C, vlożka 12.

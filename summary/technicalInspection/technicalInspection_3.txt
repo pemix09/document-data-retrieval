@@ -1,0 +1,1 @@
+Zaświadczenie techniczne trolejbusu, weryfikacja parametrów i wynik badania. Możliwość dopuszczenia do ruchu (P) lub niedopuszczony do ruchu (N).

@@ -1,0 +1,1 @@
+The vaccination card scheme for children and adults in Poland. The schedule includes vaccinations against tuberculosis, polio, Hib, MMR, pneumococcus, and DTaP. Children who have completed 6 years of age will receive a booster dose of DTaP. It is mandatory to record each vaccination in the child's health booklet and vaccination card.

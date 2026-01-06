@@ -1,0 +1,29 @@
+ROZLICZENIE - SPRZEDAŻ ENERGII
+
+[eee i Toke Cena joa Talenotć — Stawka
+Strefa Z SB uż m netto (zł) getto (zł) VAT (%)
+Energia elektryczna czynna
+całodobowa kWh 364 0,2432 88,52 23
+Ogółem wartość - sprzedaż energi 88,52
+Od 364 kWh energii elektrycznej czynnej naliczono akcyzę w kwocie 7,28 a
+ROZLICZENIE - USŁUGA DYSTRYBUCJI ENERGII
+
+Opłata stała sieciowa - układ 3-fazowy
+
+zł/me 12/11/2018 2 0,0000 4,6500 9,30 23
+Opłata przejściowa > 1200 kWh
+
+złfme | 12/11/2018 2 0,0000 6,5000 13,00 23
+Opłata jakościowa
+całodobowa kWh | 12/11/2018 364 0,0125 4,55 23
+Opłata zmienna sieciowa
+całodobowa kwh 12/11/2018 364 0,1629 59,30 23
+Opłata abonamentowa
+
+zł/mc | 12/11/2018 2 1,9200 3,84 23
+Opłata OZE
+całodobowa kWh | 12/11/2018 364 0,0000 0,00 23
+Ogółem wartość - usługa dystrubcji: 89,99
+
+Zużycie: 364 kWh Ogółem wartość 178,51
+

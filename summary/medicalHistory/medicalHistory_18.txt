@@ -1,0 +1,1 @@
+Oświadczenie o stanie zdrowia, w którym opisano stan zdrowia pacjenta. Wymagane dla uzyskania pewnych dokumentów medycznych.

@@ -1,0 +1,1 @@
+This invoice contains mandatory elements for a VAT invoice. It includes details about the seller and buyer, payment terms, goods or services provided, prices, and taxes.

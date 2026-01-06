@@ -1,0 +1,1 @@
+The purpose of this contract is to execute a mandate between Zleceniodawca and Zleceniobiorca. The Zleceniodawca may assign additional, ongoing tasks to the Zleceniobiorca as needed. The Zleceniobiorca is personally responsible for completing the tasks outlined in this contract and cannot delegate them to a third party without prior written consent from the Zleceniodawca.

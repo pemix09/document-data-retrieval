@@ -1,0 +1,30 @@
+Faktura nr: FV/46/2019
+
+Oryginał
+
+Miejscowość: Warszawa
+Data wystawienia: 04.11.2019
+Data zakończenia dostawy/usługi: 04.11.2019
+Termin zapłaty: 04.11.2019
+
+Sprzedawca Nabywca
+Maja Firma QWERTY
+Wesota 3 Kwiecista 4
+00-015 Warszawa 85-552 Bydgoszcz
+NIP 7272517844 NIP 3388059985
+Lp. |Nazwa towaru lub usługi Teść| Jm Cena Wartość | Stawka Kwota Wartość
+" netto netto | VAT VAT brutto
+1|Towar XYZ 8| st| 254%,00| 20320,00| 23% | 4673,60|  24993,60
+RAZEM: | 20 320,00 4673,50| 24 993,60
+Zestawienie sprzedaży w/g stawek podatku:
+Mechanizm podzielonej płatności Netto | Stawka | Kwota VAT Brutto
+20 320,00| 23% | 4673,60] 24993,60
+Razem do zapłaty: 24 993,60 PLN
+Słownie: dwadzieścia cztery tysiące dziewięćset dziewięćdziesiąt trzy zł i 60/100
+Sposób zapłaty: przelew
+
+Numer rachunku:
+Numer rachunku VAT: 62102000168805906719440382 (do zapłaty VAT: 4 673,60 PLN)
+
+16150015206360353998606200 (do zapłaty netto: 20 320,00 PLN)
+

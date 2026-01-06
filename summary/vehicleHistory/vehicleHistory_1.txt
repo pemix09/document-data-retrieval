@@ -1,0 +1,1 @@
+This report contains information about a vehicle's history, including its registration, ownership changes, and technical inspections. The report also includes a summary of events and a current status section.

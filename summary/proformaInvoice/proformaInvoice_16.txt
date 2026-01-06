@@ -1,0 +1,1 @@
+Faktura VAT for services provided by dhosting.pl. The invoice includes one item: Promowanie usług dhosting.pl, with a value of 300 PLN and a VAT rate of 23%. The total amount due is 369 PLN. Payment terms are 14 days from the date of issue.

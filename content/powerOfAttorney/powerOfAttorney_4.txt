@@ -1,0 +1,18 @@
+Dane pełnomocnika
+
+PESEL
+Data urodzenia
+aa mm mr
+Rodzaj, seria i numer dokumentu
+potwierdzającego tożsamość
+ie ma nadanego numeru PESEL
+Imię
+Nazwisko
+Utica
+Numer domu Numer lokalu
+Kod pocztowy Miejscowość.
+Nazwa państwa
+Tek Tw adres est ni pok
+Numer telefonu
+
+Poda numer ekon = o Ui nam Kona w Twojej sprawie

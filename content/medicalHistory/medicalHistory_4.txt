@@ -1,0 +1,46 @@
+KARTA
+
+STOMATOLOGICZNA
+
+Nr karty
+
+PESEL
+
+Imig i Nazwisko Data
+
+Adres SSS 0 Nmetlfóni
+
+Wiek _ Płeć M.  Ż Data urodzenia
+
+Miejsce pracy Ubezpieczony __ Nieubezpieczony
+
+zawód wykonywany Nr dokumentu
+
+upraw. do
+świadczeń
+
+WYWIAD OGÓLNOMEDYCZNY
+Zakreśl choroby ogólnoustrojowe
+Alergia Nadciśnienie Cukrzyca Choroby tarczycy  Epilepsja Skaza krwotoczna
+
+Żółtaczka Gruźlica AIDS Choroby weneryczne Choroby stawów Choroby odogniskowe
+Nerwice Jaskra Astma Choroba nerek Choroby serca Ciąża Układ krążenia Choroba reumat.
+
+Przeszczep Opryszczka Bulimia Anoreksja Choroba nowotworowa Depresja
+
+Przyjmowane lekii suplementy (zwłaszcza aspirynę i leki przeciwkrzepliwe)
+Alergie Aspiryna _ Penicylina Kodeina  Salicylany Lateks Nikiel Jodyna
+Inne R
+Prosimy o udzielenie zgodnych ze stanem faktycznym odpowiedzi na poniższe pytania.
+Czy wymaga Pan/Pani stosowania antybiotyków podczas zabiegu stomatologicznego? TAK / NIE
+Czy ma Pan/Pani skłonność do krwawień? TAK / NIE
+Czy posiada Pan/Pani rozrusznik serca? TAK / NIE
+Czy ma Pan/Pani trudności z polykaniem? TAK / NIE
+Czy aktualnie jest Pan/Pani w trakcie leczenia? UAE
+Czy ostatnio miał Pan/ miała Pani wykonywane badania krwi? TAK / NIE
+Czy ostatnio wystąpiły u Pana/Pani gorączka lub nocne poty? TAK / NIE
+Czy w ciągu ostatnich 6 miesięcy zauważył Pan/ zauważyła Pani przybieranie lub TAK / NIE
+utratę wagi?
+Czy pali lub żuje Pan/Pani tytoń? TAK / NIE
+
+01 Badanie przedmiotowe

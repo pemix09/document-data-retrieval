@@ -1,0 +1,1 @@
+Employee's sick leave from [date] to [date]. The employee was unable to work due to illness. The employer's ID number is [ID number], and the employee's PESEL number is [PESEL number].

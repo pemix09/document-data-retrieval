@@ -1,0 +1,54 @@
+(„I INV24.SK
+
+FANTURACINY PROGRAM,
+
+Proforma faktura # 391
+
+Datum vystavenia: 28.11.2021
+Ddtum splatnosti: 12.12.2021
+Datum dodania: 30.11.2021
+
+NAZOV POCET
+
+mój produkt 5
+moje sluzby
+
+wR
+
+[Ndzov spoloćnosti]
+[Adresa]
+
+ICO: [ICO]
+
+DIC: [DIC]
+
+IC DPH: [IC DPH]
+
+Tel. ć.: [Telefonne ćislo]
+
+ODBERATEL
+
+[Ndzov zdkaznika]
+
+[Adresa spoloćnosti zakaznika]
+IĆO: [ICO spoloćnosti zdkaznika]
+DIC: [DIC zókaznika]
+
+IC DPH: [IC DPH zdkaznika]
+
+JEDN. CENA CELKOM DPH
+142,00 710,00 142,00 (20%)
+257,00 257,00 51,40 (20%)
+CELKOM 967,00 €
+DPH 193,40 €
+Celkom k uhrade 1 160,40 €
+
+Variabilny symbol: 391
+
+Forma tihrady: bankovy prevod
+
+[Nózov banky]
+
+SWIFT/BIC: [SWIFT/BIC]
+
+Cislo bankového uctu: [Cislo bankového uctu]

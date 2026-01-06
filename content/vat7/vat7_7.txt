@@ -1,0 +1,49 @@
+* Deklaracja VAT-7 (wersja formularza 20) [DEK/09/2020/VAT7] - zostanie dodana
+
+1C |2GD 3E 4FGH _ Se-Deklaracje
+
+Deklaracja VAT-7 za:
+
+200] | sE
+
+[| Rozliczyé zakupy nierozliczone za poprzednie 01
+
+miesięcy
+
+(1 współczynnik szacunkowy struktury sprzedaży 100%
+
+D zablokuj deklarację przed zmianami
+
+7. Cel złożenia formularza
+
+1. złożenie deklaracji O 2. korekta deklaracji
+
+€. ROZLICZENIE PODATKU NALEŻNEGO
+
+x
+
+1. Sprzedaż krajowa zwolniona od podatku 10. 0,00
+2. Dostawa towarów oraz usług, poza terytorium kraju 11. 0,00
+
+2a. w tym Świadczenie usług, o których mowa w art.100 ust.1 pkt4 ustawy 12. 0,00
+
+3. Sprzedaż krajowa opodatkowana stawką 0% 13. 0,00
+
+3a. w tym dostawa towarów, o której mowa w art.129 ustawy 14. 0,00
+
+4. Sprzedaż krajowa opodatkowana stawką 5% 15. 0,00 =| 16. 0,00
+
+5. Sprzedaż krajowa opodatkowana stawką 7% albo 8% 17. 0,00 - | 18. 0,00. @
+6. Sprzedaż krajowa opodatkowana stawką 22% albo 23% 19. | _ 34567,00 = | 20. 7 950,00
+
+7. Wewnątrzwspólnotowa dostawa towarów 21. 0,00 4
+8. Eksport towarów 22. 0,00
+
+9. Wewnątrzwspólnotowe nabycie towarów 23. 0,00 =| 24. 0,00
+
+10. Import towarów, podlegający rozliczeniu zgodnie z art.33a 25. 0,00 = | 26. 0,00
+
+11. Import usług 27. 0,00 =| 28. 0,00
+
+12. Import usług art. 28b 29. 0,00 =] 30. 0,00
+

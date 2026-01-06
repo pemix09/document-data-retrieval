@@ -1,0 +1,1 @@
+This vaccination card contains a schedule of vaccinations for children from birth to 19 years old. The vaccinations include WZW (Hepatitis B), Hib, and Poliomyelitis. The schedule is divided into different age groups: 0-1 year, 2-4 months, 5-6 months, etc.

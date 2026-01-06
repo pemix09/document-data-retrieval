@@ -1,0 +1,22 @@
+IM krawiec
+
+tart | Sekretariat) Księgowość Ustawienia programu. | Archiwum danych | Zakończenie
+
+Wprowadzanie i księgowanie dokumentów | Zarządzanie edytowanym okresem | Ustawienia dla edytowanego podmiotu |
+
+księga dokumentów
+
+| © Wprowadzanie dowodów księgowych — faktur, wyciągów i innych. Tworzenie PK. Zbiorczy dokument dekretacji
+
+księgowanie dokumentów
+
+(© księgowanie wprowadzonych dokumentów
+Data dokumentu Data operacji Rodzaj Numer Pozycja Kwota Opis Kontrahent
+31072023 | 03.07.2023 | WB | 07/2023/1234 | 1 -150000 | czynsz PKO
+31.07.2023 Y 06.07.2023 | WB | 07/2023/1234 2 23660 | FV 1235/2023 PKO
+13.07.2023 13072023 FZ | 145/07 1 651,90 | Zakup długopisów Firma "Marsek"
+31.07.2023 15072023 | WB | 07/2023/1234 | 3 145000 | FV 1236/2023 PKO
+31.07.2023 31072023 | WB | 07/2023/1234 | 4 -2500 | opłata bankowa PKO
+31.07.2023 310072023 | WB 07/2023/1234 | 5 330,50 | FV 1237/2023 PKO
+3107.2023 31072023 | WB | 07/2023/1234 6 -1500 | zakup biletu PKO
+

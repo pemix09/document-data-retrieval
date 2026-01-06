@@ -1,0 +1,56 @@
+@skierowanie
+
+Skierowanie do poradni
+Poradnia Kardiologiczna (1100)
+
+UT
+
+01020304050607080910111213141516171819202127
+zb. [16.840.1.113883.3.4424.7.4.2 432232
+
+Kod dostępuj9987 | *"" Wystawiono 12.04.2026
+
+Zapisz się na świadczenie
+na podstawie kodu,
+
+Pacjent kia Pryda jeśli placówka obsługuje
+ur. 16.01.1962, pł. M e-skierowania
+
+Odkryta 41 lok. 12
+01-134 Warszawa
+
+Wystawca Poradnia Lekarza Rodzinnego ALFA
+
+Rynek 5
+23-345 Małe Ciche
+tel: +48 68 580 90 06
+
+Kod res. I-000000003657
+
+V-01; VII-001; VIII-0010
+
+REGON 43251260700026
+
+Umowa z 07 NFZ 03-16-01-02990-01
+
+Rozpoznania
+
+125 — Choroba niedokrwienna serca
+Inne informacje
+
+Proszę o objęcie specjalistyczną opieką
+
+Osoba wystawiająca
+lek. Adam Zadrożny
+Specjalista medycyny rodzinnej
+
+Zapisz się na świadczenie
+— tradycyjnie, jeśli placówka
+<--m nie obsługuje e-skierowań
+
+m (2
+ofUment (taw. informacja o e-skierowaniu) opatrzony podpisem
+osoby wystawiającej e-skierowanie, jest równoważny ze skierowaniem
+w postaci papierowej. Wejdź na pacjent.gov.pl i poznaj szczegóły.
+
+Art.. 23 ust] Ustawy z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w związku z wdrażaniem rozwiązań w obszarze e-zdrowia (Dz.U. 2020 nr 1590)

@@ -1,0 +1,19 @@
+SKIEROWANIE DO PORADNI SPECJALISTYCZNEJ
+Poradnia Żywieniowa Neo Hospital
+az pra
+
+Proszę o poradę specjalistyczną, objęcie leczeniem specjalistycznym"
+Panią (Pana)...
+
+kod(ICD10) ..
+
+Cel porady (uzasadnienie) .
+
+zany podpis pieczątka lekarza kierującego
+
+właściwe podkreślić”
+
+Uwagi poradni specjalistycznej:
+Data zgłoszenia się pacjenta ze skierowaniem.
+Termin wyznaczonej porady.
+

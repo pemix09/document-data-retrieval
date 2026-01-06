@@ -1,0 +1,36 @@
+KARTA PACJENTA
+
+(Miejscowość)
+
+Imig i Nazwisko:
+
+Numer telefonu:
+
+Data urodzenia:
+
+WYWIAD CHOROBOWY
+> Cukrzyca TAK/NIE*
+>. Zmiany skórne (rozsiane i ropne) TAK/NIE*
+> Nowotwory TAK/NIE*
+> ciąża TAK/NIE*
+> Karmienie piersią TAK/NIE*
+> Menstruacja TAK/NIE*
+> Krwawienia TAK/NIE*
+> zakrzepowe zapalenie żył TAK/NIE*
+> żylaki/skaza naczyniowa TAK/NIE*
+> Ostre stany zapalne TAK/NIE*
+>. Choroby bakteryjne, pasożytnicze TAK/NIE*
+> Wysoka temperatura ciała TAK/NIE*
+> Nadciśnienie TAK/NIE*
+> Złamania/zwichnięcia TAK/NIE*
+
+>. Przebyte operacje swnsns
+
+Oświadczam, że dane zawarte w formularzu sq zgodne z prawdą. Wyrażam zgodę na przetwarzanie
+moich danych osobowych zawartych w kwestionariuszu dla potrzeb kontaktowych oraz na dołączenie
+moich danych do bazy danych pacjentów (zgodnie z ustawą o ochronie danych osobowych z dn.
+29.08.97 r. Dz. U. Nr 133 poz. 883)".
+
+(Czytelny podpis)
+
+* Niepotrzebne skreślić

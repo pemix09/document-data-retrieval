@@ -1,0 +1,41 @@
+PODSTAWOWE ©
+Rachunek: numer rachunku 1 _ nazwa rachunku! PLN
+Numer: |wyciag i
+Okres od: 01-02-2017 Y do: 22-02-2017 w
+OPERACJE
+Lp Datsoperacji Data księgowa Podmiot
+1 08-02-2017 08-02-2017  fima2
+2 08-02-2017 08-02-2017
+
+oparacja bankowa relizającz zobo:
+
+Data utworzenia:
+
+Status:
+Warto zapamiętać
+
+Saldo początkowe:
+
+Rodzaj Obciążenie Uznanie.
+Przelew 123,00
+Pozostałe. 100,00
+
+Razem uznania:
+
+Razem obciążenia:
+
+sranie fattury
+Saldo końcowe:
+
+28-02-2017 4
+Odłożony ¥
+
+0,00 PLN
+
+Saldo
+-123,00
+-23,00
+
+100,00 PLN
+123,00 PLN
+23,00 PLN

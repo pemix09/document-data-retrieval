@@ -1,0 +1,1 @@
+Receipt for fuel sale at a gas station. The receipt confirms the sale of 43.57 liters of fuel at a price of 199.99 PLN, with a tax amount of 36.08 PLN. The total amount is 236.07 PLN. The customer paid in cash and received a change of 0.01 PLN.

@@ -1,0 +1,1 @@
+Certificate of roadworthiness for a vehicle, including details about the vehicle's type, registration, and inspection results. The certificate indicates whether the vehicle passed (P) or failed (N) the inspection.

@@ -1,0 +1,1 @@
+Raport zawiera informacje o historii pojazdu, w tym zdjęcia, historia uszkodzeń, historia sprawdzeń, bazy skradzionych pojazdów, rok modelowy produkcji i opcje wyposażenia.

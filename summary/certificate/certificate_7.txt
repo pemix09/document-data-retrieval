@@ -1,0 +1,1 @@
+This certificate provides information about a person or an organization (OEI) from the National Criminal Register. It includes details such as criminal records, convictions, and other relevant data.

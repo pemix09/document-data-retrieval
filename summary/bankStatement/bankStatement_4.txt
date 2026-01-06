@@ -1,0 +1,1 @@
+This bank statement shows transactions from February 1st, 2017 to February 22nd, 2017. The account holder is Fima2. There are two operations: a payment of 123 PLN and a remaining balance of 100 PLN. The final balance is -123 PLN.

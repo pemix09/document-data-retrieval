@@ -1,0 +1,28 @@
+Karta
+Pacjenta
+
+Osob Dawid Krajewski
+
+Wiek: 19
+Wykształcenie: średnie
+
+Miejsce zamieszkania: wieś
+
+TypA: SWS:
+
+DPUE: 56 (sten 10) Wynik ogólny: 0,633 19-sten 5
+
+MSPA: 33 (sten 9) Poczucie humoru = 3,75
+
+PWNL: 39 (sten 9) Powstrzymanie się od działań = 3,5
+OPSZ: 26 (sten 10) Zaprzestanie działań = 3,25
+
+SR: 42 (sten 6)
+
+Wo: 154 (sten 10) Zwrot ku Religii = 1
+
+1
+Unikanie konkurencyjnych działań =
+175
+
+Poszukiwanie wsparcia emocj

@@ -1,0 +1,84 @@
+POLTAX
+
+WYPEŁNIĆ DUŻYMI, DRUKOWANYMI LITERAMI, CZARNYM LUB NIEBIESKIM KOLOREM.
+
+Sprawdź poprawność Wyczyść formularz
+
+Składanie w wersji elektronicznej: www.podatki.gov.pl
+
+1. Identyfikator podatkowy NIP / numer PESEL (niepotrzebne skreślić) podatnika
+
+PIT/ZG
+
+INFORMACJA O WYSOKOŚCI DOCHODÓW/PRZYCHODÓW Z ZAGRANICY I ZAPŁACONYM
+
+W ROKU PODATKOWYM
+
+PODATKU
+
+2. Rok
+
+Załącznik do zeznań: PIT-36, PIT-36S, PIT-36L, PIT-36LS, PIT-38 i PIT-39.
+
+Załącznik składa się odrębnie dla każdego zeznania.
+
+Wypełniają podatnicy, którzy uzyskali dochody/przychody opodatkowane zgodnie z art. 27 ust. 8, 9, 9a, art. 30b ust. 5a, 5b, 5e, 5f, art.30c ust. 4, 5
+lub art. 30e ust. 8 i 9 ustawy. Załącznik PIT/ZG składa się odrębnie dla każdego państwa uzyskania dochodu/przychodu. Małżonkowie, bez
+względu na sposób rozliczenia rocznego (indywidualnie czy wspólnie z małżonkiem), składają odrębny załącznik PIT/ZG.
+
+A. DANE IDENTYFIKACYJNE
+
+3. Nazwisko 4. Pierwsze imię 5. Data urodzenia (dzień - miesiąc - rok)
+SZAFRAŃSKI MICHAŁ re
+B. DODATKOWE INFORMACJE
+6. Państwo uzyskania dochodu / przychodu 7. Kod kraju
+STANY ZJEDNOCZONE AMERYKI v US
+
+C. DOCHODY/PRZYCHODY Z ZAGRANICY I ZAPŁACONY PODATEK (po przeliczeniu na złote)
+
+C.1. DOCHODY/PRZYCHODY I PODATEK ROZLICZANE W ZEZNANIU PODATKOWYM PIT-36 I PIT-36S
+
+; z 5 Dochód z art. 27 | Podatek zapłacon
+Źródła przychodów Frzeiócizeni ŻU Dochód z art. 27 ust. 9 i 9a za Granica od y
+ust. 8 ustawy ust. 8 ustawy ustawy dochodów.
+zkol. d 3
+zor zł, gr zł, gr z, gr
+a b c d e
+1. Stosunek służbowy, stosunek pracy, praca 8. 9. 10.
+nakładcza, spółdzielczy stosunek pracy
+2. Pozarolnicza działalność gospodarcza 11. 12. 13. 14.
+3. Działalność wykonywana osobiście, o której 15. 16. 17.
+mowa w art. 13 ustawy (w tym umowy o dzieło
+i zlecenia)
+4. Najem lub dzierżawa 18. 19. 20.
+5. Prawa autorskie i inne prawa, o których mowa 21. 22. 23.
+w art. 18 ustawy
+6. Inne źródła, niewymienione w wierszach od 1 do 5 24. 25. 26.
+(w tym emerytury — renty, stypendia z zagranicy)
+7. RAZEM 27. 28. 29.
+Suma kwot z wierszy od 1 do 6.
+
+C.2. DOCHODY I PODATEK ROZLICZANE W ZEZNANIU PODATKOWYM PIT-36L I PIT-36LS
+
+Dochód, o którym mowa w art.30c ust.4 i 5 ustawy
+
+30.
+
+Podatek zapłacony za granicą”
+
+31.
+
+C.3. DOCHODY I PODATEK ROZLICZANE W ZEZNANIU PODATKOWYM PIT-38
+
+Dochód, o którym mowa w art. 30b ust. 5a i 5b ustawy 32.
+1139,49
+
+Podatek zapłacony za granicą od dochodów z poz. 32 1) 33.
+0,00
+
+Dochód, o którym mowa w art. 30b ust.5e i 5f ustawy 34.
+
+Podatek zapłacony za granicą od dochodów z poz. 34 1 35.
+
+PIT/ZG, | 4s
+

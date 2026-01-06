@@ -1,0 +1,1 @@
+Recepta dla Pacjenta z uprawnieniami dodatkowymi. PESEL: [insert PESEL number]. Rpw Odpłatność. Data wystawienia: [insert date]. Dane i podpis lekarza: [insert doctor's name and signature].

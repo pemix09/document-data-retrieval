@@ -1,0 +1,1 @@
+Prescription for patient with PESEL number [PESEL] and age under 18. The prescription includes up to 5 ready-made medications or 1 prescription-only medication, with a maximum duration of 90 days. The doctor's signature is required.

@@ -1,0 +1,51 @@
+rieczęć firmy
+
+Faktura VAT
+
+Nr 03-FVS/0001-a
+
+ORYGINAŁ
+
+2003-05-12 Warszawa
+
+data i iejsce wystawienia dckumenu
+
+2003-05-09
+
+data sprzedaży
+
+Sprzedawca: Firma Demonstracyjna
+Adres:
+
+NIP: 000-000-00-00
+
+22-400 Zamość, Bazyllańska 19/5
+
+Telefon: 3321075, 1844748 Fax: 3321076
+
+Nabywca: Herr Flueck
+|Adres:
+
+666-66 Hannover, Allestrasse 11
+
+[E-mall: demo@demo.com.pl
+Forma płatności: za zaliczeniem pocztowym Termin płatności: 2003-05-09 Bank. PKO SA Kredytowa10 Konto: 98712323-23445543
+|-8765-1-234
+Cena netto| Wartość |Stawka| Kwota _ Wartość
+e Nazwa Kod PKWIU | Ilość | Jm małe UAT SAT wate
+1 [Beben do pralki Diana 12F Diana 12F 8|szi 132,00| 1056,00] 22% 232,32 | 288,32
+bęben
+2 |Grzałka do pralki Diana 12F Diana 12F |29.71.30-7 +|szi 93.50 374.00) 22% 82.28 456,28
+grzałka 0.90
+Programator do pralki Diana 12F |Programato 7|szi 147 1035,55] 22% 227,84 1 263,49
+r do pralki
+Dia
+RAZEM 2465,65] X 542,44] __ 3 008,09]
+W tym 2465,65] 22% 542,44 3 008,09
+
+Razem do zaplaty: 3 008,09
+
+Pozostało do zapłaty: 3 008,09
+
+Słownie: trzy tysiące osiem złotych dziewięć groszy
+

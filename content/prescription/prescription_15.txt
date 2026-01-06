@@ -1,0 +1,15 @@
+Recepta
+
+Świadczeniodawca
+
+Pacjent Uprawnienia
+dodatkowe
+
+PESEL
+
+Rpw Odpłatność
+
+Data wystawienia Dane i podpis lekarza
+
+Dane podmiotu drukującego
+

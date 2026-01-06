@@ -1,0 +1,122 @@
+POLTAX POLA JASNE WYPEŁNIA PODATNIK, POLA CIEMNE WYPEŁNIA URZĄD. WYPEŁNIĆ DUŻYMI, DRUKOWANYMI LITER;
+
+Sprawdź poprawność Wyczyść formularz
+
+AMI, CZARNYM LUB NIEBIESKIM KOLOREM
+Składanie w wersji elektronicznej: www.podatki.gov.pl
+
+„Identyfikator podatkowy NIP 7aumer PESEL epotzebne skresle) podatnika 2. Nr dokumentu 3. Status
+
+[X]NIP [|] numer PESEL
+
+Podstawa prawna: Art. 45 ust. 1a pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2019 r.
+poz. 1387, z późn. zm.), zwanej dalej „ustawą”.
+
+Termin składania: Od dnia 15 lutego do dnia 30 kwietnia roku następującego po roku podatkowym, z zastrzeżeniem art. 45 ust. 7 ustawy.
+Miejsce składania: Urząd, o którym mowa w art. 45 ustawy, zwany dalej „urzędem”.
+
+A. MIEJSCE I CEL SKŁADANIA ZEZNANIA
+
+5. Urząd, do którego jest adresowane zeznanie
+WARSZAWA URZĄD SKARBOWY WARSZAWA-URSYNÓW
+
+[x] 1. zlozenie zeznania 2. korekta zeznania
+
+6. Cel ztozenia formularza (zaznaczyé wiasciwy kwadrat): 7. Rodzaj korekty (zaznaczyć właściwy kwadrat):
+
+Oo 1. korekta zeznania, o której mowa w art. 81 Ordynacji podatkowej 1)
+
+LI 2. korekta zeznania składana w toku postępowania podatkowego w sprawie 2)
+unikania opodatkowania, o której mowa w art. 81b $ 1a Ordynacji podatkowej
+
+B. DANE IDENTYFIKACYJNE I AKTUALNY ADRES ZAMIESZKANIA
+
+8. Nazwisko
+SZAFRAŃSKI
+
+MICHAŁ
+
+9. Pierwsze imię 10. Data urodzenia (dzień - miesiąc - rok)|
+
+11. Kraj 12. Województwo 13. Powiat
+POLSKA v | MAZOWIECKIE v |M.ST. WARSZAWA
+
+v
+
+M.ST.WARSZAWA v
+
+14. Gmina 15. Ulica 16. Nr domu 17. Nr
+
+lokalu
+
+18. Miejscowość
+
+WARSZAWA
+
+19. Kod pocztowy
+
+C. DOCHODY / STRATY — ART. 30B UST. 1 USTAWY
+
+Źródło przychodów
+
+Przychód Koszty uzyskania Dochód Strata
+przychodów (b - c) (c - b)
+zł, gr zi, gt zł, gr
+
+zor
+
+a
+
+b c d e
+
+1. Przychody wykazane w części D
+informacji PIT-8C
+
+2. Inne przychody”)
+
+3. Razem
+Suma kwot z wierszy od 1 do 2
+
+19 922,05 18 782,56 1 139,49
+
+D. OBLICZENIE ZOBOWIĄZANIA PODATKOWEGO
+
+zł gr
+
+Straty z lat ubiegłych
+
+Kwota z poz. 28 nie może przekroczyć kwoty z poz. 26.
+
+28.
+
+Od kwoty z poz. 26 należy odjąć kwotę z poz. 28.
+
+Podstawa obliczenia podatku (po zaokrągleniu do pełnych złotych)
+
+29.
+
+1139
+
+Stawka podatku 4) 30.
+
+Należy podać w procentach. 19,00 | Kwotę z poz. 29 należy pomnożyć przez stawkę podatku z poz. 30.
+
+Podatek od dochodów, o których mowa w art. 30b ustawy
+
+216,41
+
+Podatek zapłacony za granicą, o którym mowa w art. 30b ust. 5a i 5b ustawy (przeliczony na złote)
+
+32.
+
+Podatek należny (po zaokragleniu do pełnych złotych)
+Od kwoty z poz. 31 należy odjąć kwotę z poz. 32. Jeżeli wynik jest liczbą ujemną, należy wpisać 0.
+
+33
+
+216
+
+PIT-38 (i
+
+123
+

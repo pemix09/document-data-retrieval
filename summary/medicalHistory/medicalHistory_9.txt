@@ -1,0 +1,1 @@
+Medical history of a patient, including information about their physical condition, allergies, and medical treatments. The document also includes questions about the patient's previous surgeries, medications, and any complications they may have experienced.

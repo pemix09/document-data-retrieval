@@ -1,0 +1,1 @@
+taskContract - mię i nazwisko, Zamawiający - nazwa i adres firmy, Wykonawca - gmię i nazwisko, adres zamieszkania

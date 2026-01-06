@@ -1,0 +1,1 @@
+Recepta na leki dla pacjenta. Pacjent: Jan Kowalski, Data urodzenia: 1980-01-01. Leki: Paracetamol 500mg x 10 szt., Ibuprofen 200mg x 5 szt. Kwota: 50 PLN.

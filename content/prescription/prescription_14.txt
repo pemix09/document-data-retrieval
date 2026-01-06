@@ -1,0 +1,23 @@
+Informacje o receptach w pakiecie
+
+Kod dostępowy 1234
+12345678901234567890123456789012345678901234
+
+Informacja umożliwia realizację recept elektronicznych, nie zastępując jednak ich treści.
+
+Wystawiono 8 października 2018
+Pacjent JAN KOWALSKI
+Wystawca _ ANDRZEJ MALINA, PZW: 1234567 (Tel: 123123123)
+
+Recepta 1z1 ID 1.23.456.7.890123.4.5678.9.0.12.3.4. 45.000000000000000000
+
+Przepisano Rp.
+KAMSOFTIX tabletki powlekane 001g 30tabl. (1 blister po 30 szt.)
+
+S: 2 tabl. 3 x dziennie przez 7 dni
+Odpłatność 100%
+
+Oświadczam, że nie realizowałem/am wcześniej w/w recept
+
+(data i podpis)
+

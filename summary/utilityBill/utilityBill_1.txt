@@ -1,0 +1,1 @@
+Rzeczywisty rachunek energii dla klienta z instalacją fotowoltaiczną. Rachunek obejmuje okres od 0103/2017 do 270472017. Wartość rachunku wynosi około 362 zł.

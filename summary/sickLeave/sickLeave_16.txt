@@ -1,0 +1,1 @@
+Employee's sick leave application. The employee has taken a leave of absence due to illness. The purpose of this document is to confirm the employee's absence from work and provide information about their health status.

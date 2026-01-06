@@ -1,0 +1,12 @@
+Historia pojazdu
+
+Znalezione w bazach danych rekordy dotyczące przeszłości pojazdu
+
+DATA PRODUKCJI: 2005-08
+WIEK POJAZDU: 17 lat 11 miesięcy
+DATA tad OPIS
+2005-08 PRODUKCJA POJAZDU
+KOLOR POJAZDU: BLACK
+2087-08 REJESTRACJA POJAZDU
+
+KRAJ LUB JĘZYK INFORMACJI: UNIA EUROPEJSKA

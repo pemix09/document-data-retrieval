@@ -1,0 +1,36 @@
+Miejsce wystawienia
+Warszawa
+Data wystawienia
+
+Fakturowo ww
+
+Data sprzedaży.
+
+13-12-2024
+Sprzedawca Nabywca
+Usługi Informatyczne Jan Nowak ABC INFO Andrzej Kowalski
+NIP: 1233435678 NIP: 2345683788
+Kowalska 22 / 68 Nowakowska 12/5
+200-001 Warszawa 22-102 Góra Kalwaria
+Faktura VAT 51952/12/2024
+w. Nazwa towar lub stogi kodem | sm | noe | ces | Watsie | Saga | Kuga | Wass
+1 | Nazwa towaru ub ustug Gmi2| ua | 1 |1ovogo|1ooo0o | 23% | 22000 | 123000
+wm [1000,00 | 23% | 28000 [123000
+Razem | 1000,00 2800 | 123000
+Sposób płatności. przelew Do zapłaty 1 230,00 PLN
+Termin płatności V4 dni ‘Slownie jeden tysiąc dwieście rzydzieści 007100 PLN
+bank
+
+110 1000 2000 3000 4000 5000 6000
+
+Uwagi
+Fakturowo.pl to jeden z najprostszych programów do tworzenia dokumentów księgowych online. Zadbaliśmy o to,
+aby interfejs programu był banalnie prosty, a wystawianie dokumentów było szybkie oraz intuicyjne.
+
+FEI
+5
+
+wystawic: odebrac):
+
+Podpis ochy powania do Wystawie Podpis osoby upowaźnierej de odbioru.
+

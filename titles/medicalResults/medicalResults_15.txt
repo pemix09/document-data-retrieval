@@ -1,0 +1,1 @@
+medicalResults - Medical Test Results from Patient to Laboratory

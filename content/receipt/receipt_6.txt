@@ -1,0 +1,69 @@
+opcjonalny graficzny nagłówek
+na wydrukach
+
+nagłówek wydruku zawierający
+wymagane dane: nazwę, adres
+1 NIP użytkownika kasy
+
+5 lini x 42 znaki + linia 2 NIP
+
+data i numer wydruku.
+
+numer paragonu w danym
+raporcie dobowym np. 00017
+
+Jor raportu dobowego, do którego
+zostanie zaliczona sprzedaż
+
+2 paragonu np. 0019
+
+oraz
+
+identyfikator danej kasy np. #01
+oznaczenie kasjera (numer
+
+i nazwa) np. 01 KIEROWNIK
+
+waluta, w której dokonano sprzedaży
+
+opcjonalne linie drukowane
+na paragonie (stopka)
+6x42 znaki
+
+ELZAB™
+
+MARY
+
+ul „Kruczkowskiego 33
+41-88 ZABRZE
+NIP 648-000-02-:
+
+FE. WL 0000000002
+ROZLICZENIE OPRKOKEN ZAROTNYCH
+OPAK. 20. s0006 +41*0,6 : 05
+
+ZAPRASZAMY PONORNTI E
+
+eT
+
+jeżeli nabywcaoczekuje od sprzedawcy
+swojego numeru NIP, ten również powinien
+znaleźć na paragonie fiskalnym
+
+a
+
+oznaczenie jako paragon fiskalny
+
+nazwa towaru lub usługi, ilość
+zakupionych szt. z jednostkową ceną
+
+> Wtość sprzedały brutto i kwoty
+podatkuwg poszczególnych stawek
+
+lg po uwzględnieniu rabatów
+
+łączna kwota podatku
+
+łączna kwota sprzedaży brutto
+
+forma płatności

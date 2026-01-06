@@ -1,0 +1,1 @@
+Dokument upoważniający pełnomocnika do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej. Dane identyfikacyjne: PESEL, nazwisko, data urodzenia, numer serii paszportu lub innego dokumentu potwierdzającego tożsamość. Adres do doręczeń: województwo, powiat, ulica, nr domu, nr lokalu, miejscowość, kod pocztowy, posts.

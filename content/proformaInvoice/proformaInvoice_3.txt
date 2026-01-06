@@ -1,0 +1,68 @@
+ME-GRUJPRĄ
+
+Faktura Pro-forma n
+
+wą zamówienia: 12
+
+Niejsce wystawienia: Grodzisk Mazowiecki
+Data wystawienia: 2014-03-24
+
+2/03-2014
+
+Sprzedawca Nabywca
+E-GRUPA Sp. z 0. a. Grzegorz Bryzek
+Przeskok 128 Wiśniowa 78
+
+05-825 Grodzisk Mazowiecki
+NIP-111-222-33-44
+
+wynyregrupa.pl
+
+e-maitinfo@egrupa.pl
+
+bankING Bank
+
+Nr konia:56 1050 1142 1000 00XX 1332 XXXX
+Nr ŚWIFT/BICINGBBGSF
+
+bank PKO BP
+
+[Ne konta:58 2480 0002 2201 XXXX 6181 XXXX
+Nr ŚWIFTIBIG'BPKOPLPW
+
+ip. Nazwa towaruustugt
+
+1. Fotel biurowy Ela
+2. Biurko płyta 125
+
+Osoba upoważniona do odbioru
+
+75-357 Mszana Dolna
+NIP:963-852-74-85
+tel:22 222-46-87
+e-mallgbryzek@mall.tst
+
+Mość | dm | Cenanetto VAT Kwotanstto  KwołaVAT | Kwotabrutto
+
+100 | szt 52.49 23% 5249 12.07 6456
+
+100 | szt 5250 28% 5250 1208 64.58
+Stawka VAT Netto VAT Brutto
+
+23% 104.99 24.15 129.14
+
+Razem 104.99 24.15 129.14
+
+Sposób zapłaty: przelew
+Termin zapiaty: 7 dni
+2014-03-31
+Dostawa: wysyłka kurierem
+Zaplacono: 0.00
+
+Do z:
+
+129.14
+
+Kwota słownie: sto dwadzieścia dziewięć PLN 14100
+
+Osoba upoważniona do wystawienia

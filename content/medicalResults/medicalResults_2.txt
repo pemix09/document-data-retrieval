@@ -1,0 +1,48 @@
+Laboratorium Analiz Medycznych © WYNIK BADAŃ LABORATORYJNYCH Nr 0480009900
+
+te 013) 0000000 gop Data 2016-10-12 mata 2016-1012 LT
+pobrania: 08:12:33 zlecenia: 11:1525
+
+JAN KOWALSKI eee ee |
+
+ul, Przykładowa 3, 00-000 Nibylandia
+
+[Oddział
+Data urodzenia: PESEL: Urologiczny
+1989-01-22 89012201133
+mężczyzna
+
+Badanie: Wynik: Jedn: Norma: Zakr. referencyjne:
+BIOCHEMIA
+
+wykonujący: mr Anna Nowak KJ
+Amylaza 55,14 un ~ 22 - 80
+CRP - met. ilościowa 6,43 mg/l H 0 - 6
+Elektrolity (Na,K)
+Sód 141,2 mmol/L - 135 - 150
+Potas 4,30 mmol/L =~ 35 - 55
+Glukoza 96,27 mg/dl ~ 70 - 105
+Kreatynina 1,25 mg/dl ~ 06 - 13
+Kwas moczowy 5,10 mg/dl ~ 35 - 72
+Lipidogram
+Cholesterol HDL 60,5 mg/dl H 35 - 55
+Cholesterol LDL. 138 mg/dl ~ 60 - 160
+Trójglicerydy 51 mg/dl ~ 200
+Cholesterol catkowity 209 mg/dl H 200
+Magnez 2,40 mg/dl ~ 18 - 25
+Mocznik 33,75 mg/dl ~ 15 - 45
+Próby wątrobowe
+Bilirubina całkowita (BIL) 1,2 mg/dl H 0 - 14
+Aminotransferaza alaninowa (ALT) 18 un ~ 10 - 31
+Aminotransferaza asparaginowa (AST) 24 un ~ 10 - 37
+Fosfataza alkaliczna (ALP) 67 uA ~ 0 - 115
+Gamma-glutamylotransferaza (GGTP) 15,9 un ~ 5 - 55
+Wapń 8,90 mg/dl ~ 86 - 103
+Żelazo 188,88 ug/dl H 65 - 175
+
+mgr Anna Nowak
+g mer:
+{8 DIAGNOSTA LABORATORYJNY
+
+Data wydruku: 2016-10-12 17.4549 ‘Strona t 21
+

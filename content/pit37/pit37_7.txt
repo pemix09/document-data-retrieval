@@ -1,0 +1,65 @@
+@ PITaxp
+
+1. Identyfikator podatkowy NIP / numer PESEL podatnika (skreśl ten, którego nie wskazujesz) _ | 3: Numer dokumentu 4, Status
+
+2. Identyfikator podatkowy NIP / numer PESEL małżonka (skreśl ten, którego nie wskazujesz)
+
+PIT-37
+Zeznanie o wysokości osiągniętego dochodu (poniesionej straty)
+
+Rok
+zarokpodatkowy | 5 9 2 4
+
+Zeznanie PIT-37 wypełniasz, jeśli:
+1) podatek dochodowy od osób fizycznych obliczasz według skali podatkowej wyłącznie od przychodów uzyskanych w Polsce oraz wykazywanych w PIT-11, PIT-11A, PIT-40A, PIT-R lub IFT-1R,
+2) nie doliczasz dochodów małoletnich dzieci do swoich dochodów,
+3) nie odliczasz straty z lat ubiegłych,
+4) nie odliczasz podatku dochodowego od przychodów z budynków.
+Informacje jak wypełnić I złożyć zeznanie znajdziesz na stronie: www.podatki.gov.pl.
+W formularzu wypełnij pola jasne. Wypełnij je czytelnie, czarnym lub niebieskim kolorem. Pola ciemne wypełni urząd skarbowy.
+Podstawa prawna: Art. 45 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, zwanej dalej „ustawą”.
+Termin składania: Od 15 lutego do 30 kwietnia roku następującego po roku podatkowym. Jeśli jesteś nierezydentem, który zamierza wyjechać z Polski przed 30 kwietnia, złóż zeznanie
+zanim wyjedziesz.
+Sposób składania: Ten formularz możesz złożyć elektronicznie na stronie: www.podatki.gov.pl. Możesz go złożyć również papierowo w dowolnym urzędzie skarbowym, a także
+np. w konsulacie lub nadać na poczcie. Niezależnie od miejsca złożenia zeznania w poz. 6 wpisz swój urząd skarbowy.
+
+A. Urząd skarbowy oraz cel złożenia zeznania
+
+6. Urząd skarbowy właściwy według miejsca zamieszkania w dniu składania zeznania”
+
+7. składasz (zaznacz właściwy kwadra) a. Rodzaj korekty (zaznacz właściwy kwadra)
+O 2 korektę zeznania (O 2 korek zeznania skadana w postępowaniu podatkowym dotyczącym unikania opodatkowania
+
+B. Sposób rozliczenia podatku
+
+Sposób rozliczenia podatku (z kwadratów od 1 do 4 zaznacz tylko jeden z nich. Jeśli spełniasz warunki, dodatkowo możesz zaznaczyć kwadrat 5 lub 6)
+
+O 1 indicate Cs. jako niererydent w sposób wskazany wart. 29 ust. 4 ustawy w przypadku podatnika
+
+O 2 wspóniez matonkiem O 6 jako nierezydent w sposób wskazany wart, 2 ust. 4 ustawy -w przypadku małżonka
+O 5 jako wiowa/wdowiee
+
+O jako osoba samotnie wychowujca dzieci
+
+C. Dane identyfikacyjne i aktualny adres zamieszkania
+Możesz nie podawać adresu małżonka, jeśli wspólnie rozliczacie podatek i macie ten sam adres. Nie podajesz adresu małżonka, jeśli rozliczasz podatek jako
+wdowa/wdowiec.
+
+C.1. Dane podatnika
+
+10. Nazwisko 11. Pierwsze imię 2. Data urodzenia (dzień - miesiąc - rok)
+
+13. Kraj 14. Województwo 15, Powiat
+16, Gmina 17. Ulica 18. Numerdomu _ | 19, Numer lokalu
+20. Miejscowość 21. Kod pocztowy
+
+C.2. Dane małżonka
+
+22. Nazwisko 23. Pierwsze imię 24, Data urodzenia (dzień - miesiąc - rok)
+
+25. Kraj 26. Województwo 27. Powiat
+28. Gmina 25. Ulica 30. Numer domu _ | 31. Numer lokalu
+32. miejscowość 33, Kod pocztowy
+
+PIT-37,, | 1s
+

@@ -1,0 +1,48 @@
+3. Dodatkowe dane osoby, której wniosek dotyczy, oraz dane jej rodziców
+
+Nazwisko rodowe
+
+Miejsce urodzenia (nazwa
+miejscowości)
+
+Oznaczenie aktu
+urodzenia
+
+Oznaczenie urzędu stanu
+cywilnego, w którym
+został sporządzony akt
+urodzenia
+
+Imię ojca (pierwsze)
+Nazwisko rodowe ojca
+
+Imię matki (pierwsze)
+
+Nazwisko rodowe matki
+
+Seria i numer
+
+Data ważności dowodu
+osobistego
+
+Oznaczenie organu, który
+wydał dowód osobisty
+
+Wypełnij, jeżeli dane są dostępne i wynikają z przedstawionych dokumentów.
+
+STETSIUN
+
+UKRAINA
+
+IGOR
+
+STETSIUN
+
+OKSANA
+
+IVANOVA
+
+Ostatnio wydany dowód osobisty obywatela polskiego
+
+O dd-mm-mrr
+

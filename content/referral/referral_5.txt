@@ -1,0 +1,36 @@
+Informacja o skierowaniu elektronicznym
+
+e-zdrowie ID zbioru wersji 2.16.840.1.113883.3.4424.150224.2
+0000000000000000000051
+
+100300604/628127/1263062582402668132924572010
+
+08-01-2021 wystawiono p ęrmacja umoziwia rearzacle e KLON CZNEgO
+Ci e-skierowanie. Przy skierowania, nie zastępując jednak jego treści.
+
+rejestracji wizyty podaj Wejdź na pacjent.gov.pl i poznaj szczegóły.
+
+kod 1234 oraz swoj
+numer PESEL. PORADNIA Kod dostępu 1234
+
+Wiadomość III | III III
+
+pt. 8 stycznia 2021
+
+KARDIOLOGICZNA Pacjent Michał Kowalski
+Wystawiono  8stycznia 2021r.
+Wystawca Wawrzyniec Nowak
+
+PRZYCHODNIA PODSTAWOWEJ
+OPIEKI ZDROWOTNEJ
+tel. 123 456 789
+
+(rejestracja)
+
+Nazwa Dokument skierowania
+
+Typ Skierowanie na badanie lub
+leczenie
+
+Specjalność _ Poradnia kardiologiczna
+

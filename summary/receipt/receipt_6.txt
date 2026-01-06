@@ -1,0 +1,1 @@
+Receipt for daily sales report. Contains information about customer, product/service, quantity, unit price, and total amount. Also includes tax rates and discounts.

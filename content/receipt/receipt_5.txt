@@ -1,0 +1,28 @@
+2021-08-05
+
+PRODUKT 1 1XXX .XX XX.XXB
+PRODUKT 2 2XXX.XX XX.XXB
+
+SPRZEDAŻ OP.B
+PTU B X.XXA
+SUMA PTU
+
+SUMA PLN
+
+XKXX KASJER
+
+KARTA X.XX PLN
+
+DZIĘKUJEMY - ZAPRASZAMY PONOWNIE
+
+numer NIP,
+nazwa i adres
+punktu sprzedaży
+
+PARAGON
+FISKALNY
+
+logo fiskalne
+i numer
+unikatowy
+kasy

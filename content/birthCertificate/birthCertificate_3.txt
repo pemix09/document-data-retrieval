@@ -1,0 +1,52 @@
+Rzeczpospolita Polska =
+: AA 0000000
+
+Województwo
+Urząd Stanu Cywilnego
+
+Odpis skrócony aktu małżeństwa
+
+1. Dane osób, które zawarły małżeństwo
+
+Mężczyzna Kobieta
+Imię pierwsze
+
+Imię drugie
+Imiona kolejne
+
+Nazwisko
+
+Nazwisko rodowe
+
+Data urodzenia
+Miejsce urodzenia
+
+2. Data i miejsce zawarcia małżeństwa
+
+Data
+Miejsce
+
+3. Dane rodziców
+
+Ojciec mężczyzny Ojciec kobiety
+Imię (imiona)
+Nazwisko rodowe
+Matka mężczyzny Matka kobiety
+Imię (imiona) Ę
+Nazwisko rodowe
+
+4. Nazwiska małżonków po zawarciu małżeństwa
+Mężczyzny
+
+Kobiety.
+
+5. Nazwisko dzieci zrodzonych z tego małżeństwa
+
+Dzieci
+
+6. Aktualnie noszone nazwisko, jeżeli jest inne niż po zawarciu małżeństwa
+
+Mężczyzny
+Kobiety
+
+Odpis skrócony aktu małżeństwa strona G3 >

@@ -1,0 +1,53 @@
+OŚWIADCZENIE ZLECENIOBIORCY
+
+LDANE OSOBOWE
+Nazwisko. Imiona 1 2
+Data urodzenia Miejsce urodzenia.
+
+Nazwisko rodowe. Obywatelstwo.
+
+PESEL.
+
+Telefon kontaktowy.
+
+Proszę o stosowanie jako identyfikatora podatkowego numeru :
+a) PESEL*:
+
+B)NIP* :
+
+*niepotrzebne skreślić
+
+‘Numer PESEL jest identyfikatorem podatkowym w przypadku podatników będących osobami fizycznymi objetymi rejestrem
+PESEL nieprowadzących działalności gospodarczej lub niebędących zarejestrowanymi podatnikami podatku VAT, zaś NIP
+
+stanowi identyfikator podatkowy w odniesieniu do pozostałych podmiotów podlegających obowiązkowi ewidencyjnemu
+
+2.ADRES ZAMIESZKANIA
+Województwo. Powiat. Gmina
+
+Ulica. Nr domu............Nr mieszkania.
+Miejscowość. kod pocztowy. Poczta.
+
+3.ADRES DO KORESPONDENCJI (gdy adres do korespondencji nie jest tożsamy z miejscem
+
+zamieszkania)
+Województwo. Powiat Gmina
+
+Ulica. Nr domu. Nr mieszkania.
+Miejscowość. kod pocztowy. Poczta.
+
+4.ADRES ZAMELDOWANIA (gdy adres zameldowania nie jest tożsamy z miejscem zamieszkania)
+
+Województwo. Powiat. Gmina
+Ulica. Nr domu. ‘Nr mieszkania.
+Miejscowość. kod pocztowy. Poczta.
+
+5.URZĄD SKARBOWY (właściwy do przekazania rocznej informacji o dochodach i pobranych
+zaliczkach na podatek dochodowy PIT-11)
+
+Nazwa i adres.
+
+5. _ Numer rachunku bankowego, na który ma być przekazywane wynagrodzenie z tytułu zawartej.
+
+umowy zlecenie;
+

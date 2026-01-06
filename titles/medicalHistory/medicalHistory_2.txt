@@ -1,0 +1,1 @@
+{'medicalHistory': 'Indywidualna karta pacjenta M Ż', 'Main Parties': 'M Ż', 'Date': ''}

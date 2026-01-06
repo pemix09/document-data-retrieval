@@ -1,0 +1,67 @@
+@skierowanie
+
+Skierowanie do poradni
+
+Poradnia kardiologiczna (1100)
+Rodzaj a
+popa > skierowania
+A i miejsce realizacji
+44 znakowy 01020304050607080910111213141516171819202122
+klucz dostępowy 10: 2.16.8401.113863.3.4404.2,7.14067.2.1
+Kod dostępu 9982 | Wystawiono: 13.04.2020
+3
+Kod dostępowy, |
+który w połączeniu Pacjent: Mieczysław Kowalski REA
+z numerem PESEL 62011699999
+PESEL umożliwia wb. 18.09.9882, pb Sekcja
+pobranie Odkryta 41 lok. 12 danych Pacjenta
+e-skierowania 01-134 Warszawa i Wystawcy zgodnie
+Wystawca: — Poradnia lekarza rodzinnego ALFA z wymogami
+
+Rynek5 papierowego
+
+28-345 Małe Ciche skierowania
+
+tel: +48 66 580 90 06
+
+Kod res. I-000000003657
+
+V-01; VII-001; VIII-0010
+
+REGON 43251260700026
+
+07 NFZ 03-16-01-02990-01
+
+I Rozpoznanie: ||
+Informacje tt» 4
+dotyczące, 110 Nadciśnienie tętnicze
+skierowanie, Inne informacje:
+m.in. rozpoznanie Podejrzenie nadciśnienia, proszę o objęcie
+oraz informacje specjalistyczną opieką
+dodatkowe L
+| Osoba wystawiająca: sa
+lekarza dotyczące lekarza
+
+Specjalista chorób wewnętrznych NR
+| wystawiającego
+
+e-skierowanie m.in.
+imię i nazwisko,
+NPWZ oraz
+specjalizacje
+
+Miejsce na podpis =>
+lekarza wystawiającego
+umożliwiający
+
+realizacje świadczenia
+
+na podstawie wydruku
+informacyjnego
+
+(odpis osoby kierującej)
+
+Nniejszy dokument (zw. informacja o e-skierowaniu) opatrzony |
+osoby wystawiającej e-skierowani, jest równoważny ze skierows
+w postaci papierowej. Wejdź na pacjent.gow.pl i poznaj szczegół.
+

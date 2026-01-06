@@ -1,0 +1,58 @@
+Fakturowo
+
+Miejsce wystawienia
+
+Warszawa
+Data wystawienia
+12-12-2024
+Data sprzedaży.
+12-12-2024
+
+Sprzedawca.
+Usługi Informatyczne Jan Nowak
+NIP: 1233435678
+Kowalska 22 / 68
+00-001 Warszawa
+
+Nabywca
+
+ABC INFO Andrzej Kowalski
+NIP: 2345683788
+Nowakowska 12/5
+
+22-102 Góra Kalwaria
+
+Faktura proforma FP/104/12/2024
+
+w ‘Nazwa towaru lub usługi EE] > |EETEPFZFERZ lee REŻ
+1 | Nazwa towaru lub usługi Grud2| us. | 1 _|1o0ogo | 100000 | zax | 23000 | 1 23000
+Wym | 1000,00 | 23% | 230,00 | 123000
+Razem | 1 000,00. 230,00 | 123000
+
+Sposób płatności przelew
+
+Do zapłaty 1 230,00 PLN
+
+Termin płatności 14 dni
+
+banie
+10 1000 2000 3000 4000 5000 6000
+
+Słownie jeden tysiąc dwieście trzydzieści 0/100 PLN.
+
+Uwagi
+
+Fakturowo.pl to jeden z najprostszych programów do tworzenia dokumentów księgowych online. Zadbaliśmy o to,
+aby interfejs programu był banalnie prosty, a wystawianie dokumentów było szybkie oraz intuicyjne.
+
+FEI
+5
+
+wystawic:
+
+odebrac):
+
+Podpis ochy powania do Wystawie
+
+Podpis osoby upowaźnierej de odbioru.
+

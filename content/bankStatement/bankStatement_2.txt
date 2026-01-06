@@ -1,0 +1,14 @@
+jzorzec dekretacji
+
+|opis wzorca: Dekret da zapłaty za fakturę sprzedaży
+zastosuj do: [pozycji dokumentu -
+
+Konta księgowe
+
+Jeżeli rodzaj kontaktu: [Firma
+|Użyj pozycji da kwot:
+
+Znaczniki
+
+|ograniczenie znaczników: [Brak
+

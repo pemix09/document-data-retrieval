@@ -1,0 +1,1 @@
+Wynik obliczeń dochodu i strat. Przychody, koszty uzyskania, suma odpisów, dochód/strata. Amortyzacja, podatek od dochodów, podatek należny.

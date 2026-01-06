@@ -1,0 +1,1 @@
+Formularz PIT-36 to formularz zeznania podatkowego dla osób fizycznych w Polsce. Formularz musi być wypełniony przez podatników, którzy mają dochody ze źródeł różnych, w tym zatrudnienia, samozatrudnienia i kapitałowych.

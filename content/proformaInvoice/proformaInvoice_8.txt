@@ -1,0 +1,39 @@
+"Intaxo
+
+Faktura pro-forma NR: PROF 00001/08/2016
+
+Miejsce wystawienia: Demowo Wielkie
+Wystawiona w dniu: 08-08-2016
+SPRZEDAJĄCY NABYWAJĄCY.
+Firma Usługowa DEMO s.c. Agencja reklamowa PEGASUS
+Demonstracyjna 1 ul. Kościuszki 65
+12-345 Demowo Wielkie 60-001 Poznań
+8749430418 NIP: 769-109-28-09
+NIP UE: PLS749430418
+Sposób zapłaty: Gotówka
+Termin zapłaty: 08-08-2016
+Ne konta: 00 1111 2222 3333 4444 5555 6666 mBank (SW012345)
+- ge |Cenajedn. | Wartość bez Wartość z
+Lp. | Nazwa towaru lub usługi Jm. Ilość eż pod: VAT % | Kwota VAT dem VAT
+1 | Dysk przenośny USB 2,5" Samsung G2 32068 szt. 2 269.00 538.00 23% 123.74 661.74
+2. | Drukarka atramentowa Canon PIXMA iP3600 szt. 1 499.00 499.00 23% 114.77 613.77
+3. | Drukarka laserowa HP Series 9876-98 szt. 1 367.00 367.00 23% 8441 451.41
+Meble biurowe KONAWA
+4 | + dostawa na miejsce szt. 1 1499.00 1499.00) 23% 344.77 1843.77
++ montarz
+s Notebook TOSHIBA - 1 2399.00 2399.00) 23% 551.77 2950.77
++ instalacja oprogramowania specjalistycznego
+6 | Usługa księgowa szt. 1 200.00 200.00, 23% 46.00 246.00
+Razem do zapłaty: 6767.46 PLN Razem 5502.00 1265.46 6767.46.
+wtym 5502.00 | _ 23% 1265.46 6767.46.
+
+Do zapłaty: 0.00 PLN / zapłacono: 6767.46 PLN
+
+Słownie złotych: Sześć tysięcy siedemset sześćdziesiąt siedem złotych 46/100.
+
+Uwagi:
+
+podęś osoby upoważnicnej do exon faktury
+
+Weronika Kowalska
+.podęś osoby upoważnienej do wystawienia faltury

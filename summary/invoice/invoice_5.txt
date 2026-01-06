@@ -1,0 +1,1 @@
+Simple invoice for client. The invoice includes two items: 'mój produkt' and 'moja usługa'. The total value of the invoice is 4,500 PLN, with VAT (23%) being 1,035 PLN. The total amount to be paid is 5,535 PLN.

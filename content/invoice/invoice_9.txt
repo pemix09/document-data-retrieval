@@ -1,0 +1,47 @@
+Wystawiono dnia: 2016-09-28, Katowice
+
+[FakturaXL.pl]
+
+Sprzedawca:
+Firma ABC
+
+ul. Szeroka 2
+
+44.585 Katowice
+NIP. *720002720
+rmagpfakturasi pl
+
+POZYCJE FAKTURY
+
+> Cena netto
+LP Nazwa towarulusługi Rabat kość Cena netto ToT pacie
+
+1 Oprogramowanie 20% 1szt 1620000
+
+2 Dostawa 0% 1szt 10.00
+
+Faktura VAT nr FV 1/09/2019
+
+Data sprzedaży. 2010-00-28
+Sposób zapłaty.  Przelem
+Termin płatności: _ 2010-10-05
+
+Nabywca:
+Produkcja Sp. zo.o.
+wd. Stawowa 38
+00-067 Warszawa
+NIP. 0372624178
+
+Odbiorca
+Handel sc
+ul Prosta 5
+00-121 Warszawa
+NIP: 5111625852
+
+Wartość netto VAT “Aree
+
+Wartość Wartość
+brutto
+
+Wzór faktury VAT
+

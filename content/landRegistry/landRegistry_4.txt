@@ -1,0 +1,44 @@
+TREŚĆ KSIĘGI WIECZYSTEJ NR EWKA I Ree STAN Z DNIA = ma
+
+prowadzonej przez SĄD REJONOWY SZCZECIN-PRAWOBRZEŻE I ZACHÓD W SZCZECINIE, X WYDZIAŁ KSIĄG WIECZYSTYCH - SZ1S
+
+LOKAL STANOWIĄCY ODRĘBNĄ NIERUCHOMOŚĆ
+
+DZIAŁ I-O - OZNACZENIE NIERUCHOMOŚCI
+
+Nr podstawy
+lwpisu
+
+Numer bieżący nieruchomość
+
+1,3
+
+Nr podstawy
+|wpisu
+
+Położenie (numer porządkowy / województwo, ||, ;, |,  |ZACHODNIOPOMORSKIE, SZCZECIN M., SZCZECIN
+gmina, miejscowość)
+
+Ulica [Numer budynku __|Numer lokalu D Te a Lt
+Identyfikator lokalu ar TOW oe
+
+Przeznaczenie lokalu LOKAL MIESZKALNY
+
+Dp laka a zajazkyczdeżka) pokój sh ŁAZIENKA = 1, PRZEDPOKÓJ Z ANEKSEM
+Kondygnacja 1,0
+
+Przyłączenie - numer księgi wieczystej PJ "zr"
+
+(nieruchomość, z której wyodrębniono lokal) Kada J
+
+Odrębność (lokal stanowi odrębną nieruchomość)
+
+[TAK
+
+Pole powierzchni użytkowej lokalu wraz z powierzchnią
+pomieszczeń przynależnych
+
+|25,6700 M2
+
+1, 3, 5,6
+

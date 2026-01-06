@@ -1,0 +1,1 @@
+Authorization to control and verify data from the PESEL register, based on Article 58 of the Act of September 24, 2010, on population registration. The authorized person is responsible for ensuring that the controlled entity complies with the obligations set out in the authorization.

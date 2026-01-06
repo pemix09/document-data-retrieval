@@ -1,0 +1,30 @@
+wezparagon.gov.pl zk Ministerstwo
+Numer NIP,
+
+nazwa i adres
+sprzedawcy
+
+2021-08-05
+
+Oznaczenie
+"paragon fiskalny"
+
+1
+
+PRODUKT 1 1XXX.XX XX.XXB
+PRODUKT 2 2XXX.XX XX.XXB
+
+SPRZEDAŻ OP.
+PTU B X.XXX X.XX
+SUMA PTU X. XX
+SUMA PLN
+
+XXXX KASJER
+
+Logo fiskalne
+i numer
+unikatowy kasy
+
+KARTA
+
+DZIĘKUJEMY - ZAPRASZAMY PONOWNIE

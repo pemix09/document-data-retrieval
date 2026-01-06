@@ -1,0 +1,27 @@
+Historia pojazdu
+
+Ta sekcja zawiera informacje o rejestracji pojazdu w Belgii.
+
+Informacje rejestrowe
+
+Data wstępnej rejestracji 19/07/2008
+Data pierwszej rejestra: 25/87/2005
+Data ostatniej zmiany w rejestrze: 26/06/2017
+informacje o badaniu technicznym
+Data ważności przeglądu: 31/63/2018
+Przebieg podczas przedostatniego przeglądu: 306243 km
+Przebieg podczas ostatniego przeglądu: 386328 km
+Informacje dodatkowe
+Belgijski certyfikat zgodności PVA/PVG: 405604
+Europejska norma emisjii spalin: 4
+Informacje o statusie pojazdu
+Status pojazdu: Y | Normalny
+Status legalność % Normalny
+Administracyjny status pojazdu: 4 Normalny
+Kompletność pojazdu: Y Poiazd kompletny
+
+Pojazd wycofany z ruchu:
+Pojazd przeznaczony do demontażu:
+
+Poprawność odczytów licznika:
+

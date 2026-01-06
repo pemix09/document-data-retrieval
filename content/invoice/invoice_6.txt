@@ -1,0 +1,50 @@
+i rafsoftnet
+
+Sprzedawca
+
+Faktura
+
+nr: 4/2021
+
+Wystawiona w dniu; 07-03-2021, Warszawa
+Data zakończenia dostawy/ustugi: 07-03-2021
+
+Nabywca
+
+RAFSOFT.NET
+
+ul. Strzelińska 2c/10, 57-200 Ząbkowice Śląskie
+
+NIP 887-116-00-53
+Telefon 071 710 48 58
+
+Adres e-mail biuroGrafsoft.net, wwm.rafsoft.net
+
+Sposób zapłaty: Gotówka
+
+XYZ Sp. 2 0.0.
+ul. Przykładowa 1, 00-001 Warszawa
+NIP 555-555-55-55,
+
+Lp.] Nazwa towaru lub ustugi am | ilość | Cena netto Wartość VAT] Kwota VAT | Wartość
+netto | % brutto
+1 [Myszka szt. 2 30,00 zł 60,0021|23%| 13,8021 73,80 zł
+2| Monitor szt. 1 500,00 zi 500,00 zł |z3%| | 115,00zł 615,00 zł
+3 |klawiature szt, 1 59,00 2 59,00 zł|23%| 13,57zł 72,57 21
+4] Komputer swt. 1] 1.000,00 21]  100000zł|23%]  23000zł| 1230,00 24
+Razem: 1619,00 zł 372,37 ł|__1 991,37 zł
+W tym: 1619,00 zi|23%| 372.3721] 1.991,3721
+Razem do zapłaty: 991,37 zł
+Słownie złotych:(ieden tysiąc dziewięćset dziewięćdziesiąt jeden PLN 37/100)
+Uwagi:
+
+Dowolny tekst np: Towar (usługa) odebrana bez zastrzeżeń dościowych | jakościowych. Wyrażam zgod, by po przekraczaniu w/w
+terminu płatności dokczyć ustawowe odsetki z» każdy dzień zwłki. Do chwili zapłacenia towar pozaseje własności
+
+Powyższy tekst mates: zmienić w Kenfiguracja -> Wygląd dokumentu > Teksty -> Skały tekst.
+
+podpis osoby upoważnionej do odbioru faktury
+
+sprzedawcy.
+
+podpis osoby upoważnionej do wystawienia faktury

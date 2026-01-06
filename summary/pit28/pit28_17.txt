@@ -1,0 +1,1 @@
+Roczne rozliczenie składki zdrowotnej za rok. Kwota dochodu osiągniętego z działalności gospodarczej w roku, którego dotyczy roczne rozliczenie. Kwota należnego podatku za rok, kwota do dopłaty i kwota do zwrotu.

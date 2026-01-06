@@ -1,0 +1,38 @@
+Data ur: 1968 Płeć: Kobieta
+
+Pacjent:
+PESEL: MIP:
+Zlecenie z: Tryb: Rutyna Lekarz:
+Nr dzienny: Nr zlecenia: Zleceniodawca:
+Nazwa badania Wynik_ Jednostka Wartreferenc. __ Dt.Ozn/Uwagi
+HEMATOLOGIA
+Morfologia krwi obw. z rozmazem + płytki krwi
+WBC - Leukocyty 4,97 1043/pl [3,80 - 10,00]
+Rozmaz
+NEUT# - Neutrocyty - |. bezw. 3,11 1043/yl [2,00 - 7,80:
+LYM# - Limfocyty - I. bezw. 1,49 1043/pl [0,60 - 4,10:
+MONO# - Monocyty - |. bezw. 0,27 10*3/ul [0,20 - 1,00:
+EOS# - Eozynocyty - |. bezw. 0,05 10A3/Hl [0,00 - 0,70)
+BASO# - Bazocyty - |. bezw. 0,05 10*3/ul [0,00 - 0,20:
+NEUT% - Neutrocyty - zaw. % 62,6 % [40,0 - 70,0:
+LYM% - Limfocyty - zaw. % 30,0 % [20,0 - 45,0:
+MONO% - Monocyty - zaw. % 5,40 % [2,00 - 10,00]
+EOS% - Eozynocyty - zaw. % 1,00 % [0,00 - 7,00;
+BASO% - Bazocyty - zaw. % 1,00 % [0,00 - 2,50:
+IG% - Niedojrzate granulocyty 0,2 % [< 0,5]
+Krwinki czerwone
+RBC - Erytrocyty 4,46 1046/pl [3,70 - 5,10)
+HGB - Hemoglobina 12,4 g/dL 12,0 - 16,0
+HCT - Hematokryt 37,5 % [37,0 - 47,0:
+MCV - Sr. obj. erytrocyta 84,1 fL [80,0 - 99,0)
+MCH - Śr. masa Hb. w erytr. 27,8 pg [27,0 - 35.0)
+MCHC - Śr. stęż. Hb w erytr. 33,1 g/dL [32,0 - 37.0)
+RDW - Wsk. zróżn. obj. erytr. 12,7 % 11,5 - 14,5
+NRBC# -Erytroblasty - |. bezw. 0,00 10A3/Hl [0,00 - 0,00;
+NRBC% -Erytroblasty - zaw. % 0,00 % [0,00 - 0,00:
+Plytki krwi
+PLT - Płytki krwi 271,0 1043/pl 140 - 440]
+PDW - Wsk. zróżn. obj. płytek 11,9 fL [9,0 - 14,0]
+MPV - Średnia objętość płytek 10,30 fL [7,20 - 12,50]
+PCT - Płytkokryt 0,28 % [0,16 - 0,34:
+

@@ -1,0 +1,1 @@
+Oświadczenie podatnika dla celów obliczania miesięcznych zaliczek na podatek dochodowy od osób fizycznych. Dane identyfikacyjne podatnika: nazwisko, data urodzenia. Dane płatnika: nazwa firmy.

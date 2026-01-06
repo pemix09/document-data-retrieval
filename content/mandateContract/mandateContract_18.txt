@@ -1,0 +1,68 @@
+Rachunek do umowy zlecenia
+
+Rachunek nr: z dnia:
+
+Za wykonanie prac zgodnie "=
+z umową nr: z dnia:
+
+Zleceniodawca:
+
+Zleceniobiorca:
+
+Kwota brutto
+
+Wyliczane składki:
+
+Składki na ubezpieczenia społeczne finansowane ze środków zleceniobiorcy:
+
+w tym:
+- emerytalna (9,76%)
+
+- rentowa (1,5%)
+
+- chorobowa (2,45%):
+
+Składka na ubezpieczenie zdrowotne (9%):
+Składka na ubezpieczenie zdrowotne pobrana: *
+Koszty uzyskania przychodu: **)
+
+Podstawa opodatkowania: ***)
+
+Hipotetyczna zaliczka na podatek dochodowy wg przepisów
+o pdof obowiązujących na dzień 31.12.2021 r. ***)
+
+Do wypłaty:
+
+[
+WN
+[
+
+Stownie:
+
+Podpis zleceniodawcy
+
+Wymieniona kwote otrzymatem dn.”)
+
+Przelew prosze wykonaé na konto: )
+
+Podpis zleceniobiorcy
+
+Nazwa banku |
+
+Numer konta
+
+1) Wypełnić w przypadku potwierdzania liczby godzin wykonania usługi lub świadczenia usług
+2) Wypełnić w przypadku wypłaty gotówkowej
+3) Wypełnić w przypadku płatności przelewem
+
+* W przypadku gdy składka na ubezpieczenie zdrowotne obliczona od przychodu wolnego od podatku dochodowego na podstawie art. 21 ust. 1 pkt 148 oraz 152-154 ustawy z dnia 26 lipca 1991 r.
+o podatku dochodowym od osób fizycznych jest wyższa od kwoty zaliczki obliczonej zgodnie z przepisami ustawy o pdof w brzmieniu obowiązującym na dzień 31.12.2021 r., którą płatnik obliczyłby,
+gdyby przychód ubezpieczonego nie był zwolniony od podatku dochodowego na podstawie tego przepisu, składkę obliczoną za poszczególne miesiące obniża się do wysokości tej kwoty (art. 83
+
+ust. 2a-2b ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych).
+
+**) Uzupełnia się tylko dla celów sprawdzenia, czy wyliczona składka zdrowotna, na mocy powołanego wyżej przepisu, podlega obniżeniu do wysokości „hipotetycznej zaliczki”.
+
+***) Podstawa opodatkowania i zaliczka na pdof ustalona zgodnie z przepisami ustawy o pdof w brzmieniu obowiązującym na dzień 31.12.2021 r. tylko dla potrzeb ewentualnego obniżenia składki zdrowotnej.
+
+Źródło: Wydawnictwo Podatkowe GOFIN sp. z 0.0. - www.Druki.Gofin.pl
