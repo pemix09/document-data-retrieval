@@ -4,3 +4,5 @@
 /summarizer/models/
 /summarizer/scans_to_verify_summary/
 /summarizer/tmp_results/
+.DS_Store
+**/.DS_Store

@@ -75,11 +75,9 @@ CATEGORIES = {
     "technicalInspection": "zaświadczenie o badaniu technicznym wypełnione",
 
     # --- OTHER ---
-    "documentScan": "skan dokumentu z tekstem i pieczątką",
     "application": "wniosek urzędowy wypełniony skan",
     "certificate": "zaświadczenie o niekaralności uzupełnione",
     "authorization": "upoważnienie wypełnione dane",
-    "other": "pismo urzędowe wypełnione skan"
 }
 
 HEADERS = {
